@@ -1,0 +1,426 @@
+[
+    {
+        "Level": "1",
+        "Name": "INSPIRASI"
+    },
+    {
+        "Level": "4",
+        "Name": "IDOLA"
+    },
+    {
+        "Level": "5",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "3",
+        "Name": "STANFORD"
+    },
+    {
+        "Level": "3",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "2",
+        "Name": "IDOLA"
+    },
+    {
+        "Level": "5",
+        "Name": "ILTIZAM"
+    },
+    {
+        "Level": "1",
+        "Name": "OXFORD"
+    },
+    {
+        "Level": "5",
+        "Name": "MONASH"
+    },
+    {
+        "Level": "5",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "1",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "4",
+        "Name": "HARVARD"
+    },
+    {
+        "Level": "1",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "1",
+        "Name": "DINAMIK"
+    },
+    {
+        "Level": "2",
+        "Name": "HARVARD"
+    },
+    {
+        "Level": "1",
+        "Name": "STANFORD"
+    },
+    {
+        "Level": "4",
+        "Name": "DLP"
+    },
+    {
+        "Level": "4",
+        "Name": "INOVASI"
+    },
+    {
+        "Level": "5",
+        "Name": "INSPIRASI"
+    },
+    {
+        "Level": "3",
+        "Name": "DLP"
+    },
+    {
+        "Level": "2",
+        "Name": "INOVASI"
+    },
+    {
+        "Level": "1",
+        "Name": "TERBILANG"
+    },
+    {
+        "Level": "2",
+        "Name": "ILTIZAM"
+    },
+    {
+        "Level": "5",
+        "Name": "OXFORD"
+    },
+    {
+        "Level": "2",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "1",
+        "Name": "CAMBRIDGE"
+    },
+    {
+        "Level": "5",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "4",
+        "Name": "JUJUR"
+    },
+    {
+        "Level": "3",
+        "Name": "IDOLA"
+    },
+    {
+        "Level": "5",
+        "Name": "DINAMIK"
+    },
+    {
+        "Level": "5",
+        "Name": "STANFORD"
+    },
+    {
+        "Level": "4",
+        "Name": "INSPIRASI"
+    },
+    {
+        "Level": "1",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "KHAS MENENGAH INOVASI"
+    },
+    {
+        "Level": "2",
+        "Name": "JUJUR"
+    },
+    {
+        "Level": "2",
+        "Name": "INSPIRASI"
+    },
+    {
+        "Level": "4",
+        "Name": "IKON"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "IMPIAN"
+    },
+    {
+        "Level": "1",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "KHAS MENENGAH IKON"
+    },
+    {
+        "Level": "4",
+        "Name": "OXFORD"
+    },
+    {
+        "Level": "3",
+        "Name": "HARVARD"
+    },
+    {
+        "Level": "2",
+        "Name": "IKON"
+    },
+    {
+        "Level": "5",
+        "Name": "TERBILANG"
+    },
+    {
+        "Level": "4",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "KHAS MENENGAH INSPIRASI"
+    },
+    {
+        "Level": "1",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "2",
+        "Name": "OXFORD"
+    },
+    {
+        "Level": "4",
+        "Name": "DINAMIK"
+    },
+    {
+        "Level": "2",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "5",
+        "Name": "CAMBRIDGE"
+    },
+    {
+        "Level": "4",
+        "Name": "ILTIZAM"
+    },
+    {
+        "Level": "4",
+        "Name": "MONASH"
+    },
+    {
+        "Level": "2",
+        "Name": "DINAMIK"
+    },
+    {
+        "Level": "3",
+        "Name": "INOVASI"
+    },
+    {
+        "Level": "2",
+        "Name": "STANFORD"
+    },
+    {
+        "Level": "4",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "3",
+        "Name": "ILTIZAM"
+    },
+    {
+        "Level": "5",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "3",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "5",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "2",
+        "Name": "TERBILANG"
+    },
+    {
+        "Level": "1",
+        "Name": "DLP"
+    },
+    {
+        "Level": "4",
+        "Name": "CAMBRIDGE"
+    },
+    {
+        "Level": "1",
+        "Name": "INOVASI"
+    },
+    {
+        "Level": "5",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "3",
+        "Name": "JUJUR"
+    },
+    {
+        "Level": "2",
+        "Name": "CAMBRIDGE"
+    },
+    {
+        "Level": "3",
+        "Name": "INSPIRASI"
+    },
+    {
+        "Level": "3",
+        "Name": "IKON"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "HARVARD"
+    },
+    {
+        "Level": "2",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "4",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "1",
+        "Name": "IDOLA"
+    },
+    {
+        "Level": "3",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "4",
+        "Name": "STANFORD"
+    },
+    {
+        "Level": "2",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "KHAS MENENGAH ILTIZAM"
+    },
+    {
+        "Level": "2",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "1",
+        "Name": "JUJUR"
+    },
+    {
+        "Level": "4",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "3",
+        "Name": "DINAMIK"
+    },
+    {
+        "Level": "5",
+        "Name": "DLP"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "ILHAM"
+    },
+    {
+        "Level": "2",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "KHAS MENENGAH IDOLA"
+    },
+    {
+        "Level": "1",
+        "Name": "HARVARD"
+    },
+    {
+        "Level": "1",
+        "Name": "IKON"
+    },
+    {
+        "Level": "5",
+        "Name": "INOVASI"
+    },
+    {
+        "Level": "4",
+        "Name": "TERBILANG"
+    },
+    {
+        "Level": "3",
+        "Name": "TERBILANG"
+    },
+    {
+        "Level": "5",
+        "Name": "IDOLA"
+    },
+    {
+        "Level": "3",
+        "Name": "CAMBRIDGE"
+    },
+    {
+        "Level": "1",
+        "Name": "ILTIZAM"
+    },
+    {
+        "Level": "4",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "1",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "5",
+        "Name": "JUJUR"
+    },
+    {
+        "Level": "2",
+        "Name": "DLP"
+    },
+    {
+        "Level": "3",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "4",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "5",
+        "Name": "HARVARD"
+    },
+    {
+        "Level": "5",
+        "Name": "IKON"
+    },
+    {
+        "Level": "3",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "3",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "KHAS MENENGAH INTELEK"
+    }
+]

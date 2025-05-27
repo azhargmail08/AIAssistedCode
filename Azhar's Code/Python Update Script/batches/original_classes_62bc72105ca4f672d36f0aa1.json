@@ -1,0 +1,678 @@
+[
+    {
+        "Level": "2",
+        "Name": "USM"
+    },
+    {
+        "Level": "1",
+        "Name": "UITM"
+    },
+    {
+        "Level": "2",
+        "Name": "UIA"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PK6"
+    },
+    {
+        "Level": "T4",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "2",
+        "Name": "UITM"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "PK6"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK 3"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "5",
+        "Name": "UTM"
+    },
+    {
+        "Level": "T4",
+        "Name": "UITM"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "PK4"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR KEBUN 3"
+    },
+    {
+        "Level": "KKM",
+        "Name": "PK6"
+    },
+    {
+        "Level": "4",
+        "Name": "UPM"
+    },
+    {
+        "Level": "1",
+        "Name": "UPM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK2"
+    },
+    {
+        "Level": "T2",
+        "Name": "UIA"
+    },
+    {
+        "Level": "5",
+        "Name": "UMS"
+    },
+    {
+        "Level": "2",
+        "Name": "UPM"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "TINGKATAN 1"
+    },
+    {
+        "Level": "1",
+        "Name": "UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "UUM"
+    },
+    {
+        "Level": "4",
+        "Name": "UM"
+    },
+    {
+        "Level": "T3",
+        "Name": "UMS"
+    },
+    {
+        "Level": "3",
+        "Name": "UUM"
+    },
+    {
+        "Level": "3",
+        "Name": "UM"
+    },
+    {
+        "Level": "4",
+        "Name": "USM"
+    },
+    {
+        "Level": "5",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "3",
+        "Name": "USM"
+    },
+    {
+        "Level": "2",
+        "Name": "UTM"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "TINGKATAN 3"
+    },
+    {
+        "Level": "KKM",
+        "Name": "PK5"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "TINGKATAN 4"
+    },
+    {
+        "Level": "3",
+        "Name": "UIA"
+    },
+    {
+        "Level": "KKM",
+        "Name": "TINGKATAN 1"
+    },
+    {
+        "Level": "4",
+        "Name": "UKM"
+    },
+    {
+        "Level": "4",
+        "Name": "UITM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK6"
+    },
+    {
+        "Level": "T1",
+        "Name": "UIA"
+    },
+    {
+        "Level": "T4",
+        "Name": "UMS"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK 6"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KAV MASAKAN"
+    },
+    {
+        "Level": "1",
+        "Name": "UKM"
+    },
+    {
+        "Level": "KKM",
+        "Name": "TINGKATAN 3"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PK3"
+    },
+    {
+        "Level": "4",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "T4",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "T2",
+        "Name": "UPM"
+    },
+    {
+        "Level": "2",
+        "Name": "UKM"
+    },
+    {
+        "Level": "1",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "1",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "PK3"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH TINGKATAN 1"
+    },
+    {
+        "Level": "2",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "TINGKATAN 2"
+    },
+    {
+        "Level": "2",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK5"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK 1"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "TINGKATAN 1"
+    },
+    {
+        "Level": "T2",
+        "Name": "UM"
+    },
+    {
+        "Level": "T2",
+        "Name": "UUM"
+    },
+    {
+        "Level": "KKM",
+        "Name": "PK3"
+    },
+    {
+        "Level": "3",
+        "Name": "UPM"
+    },
+    {
+        "Level": "KKM",
+        "Name": "PK4"
+    },
+    {
+        "Level": "T2",
+        "Name": "USM"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK TINGKATAN 1"
+    },
+    {
+        "Level": "T1",
+        "Name": "UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "UTM"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PK2"
+    },
+    {
+        "Level": "T5",
+        "Name": "SLDN KFC"
+    },
+    {
+        "Level": "T2",
+        "Name": "UKM"
+    },
+    {
+        "Level": "T2",
+        "Name": "UITM"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK TINGKATAN 3"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KVS ROTI 1"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PK1"
+    },
+    {
+        "Level": "T5",
+        "Name": "UM"
+    },
+    {
+        "Level": "T2",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "PK7"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "PK1"
+    },
+    {
+        "Level": "T1",
+        "Name": "UM"
+    },
+    {
+        "Level": "T1",
+        "Name": "UUM"
+    },
+    {
+        "Level": "T5",
+        "Name": "USM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR MASAKAN"
+    },
+    {
+        "Level": "T1",
+        "Name": "USM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KVS ROTI 4"
+    },
+    {
+        "Level": "4",
+        "Name": "UMS"
+    },
+    {
+        "Level": "3",
+        "Name": "UKM"
+    },
+    {
+        "Level": "3",
+        "Name": "UITM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK3"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK4"
+    },
+    {
+        "Level": "T5",
+        "Name": "UITM"
+    },
+    {
+        "Level": "1",
+        "Name": "UMS"
+    },
+    {
+        "Level": "T1",
+        "Name": "UKM"
+    },
+    {
+        "Level": "T1",
+        "Name": "UITM"
+    },
+    {
+        "Level": "4",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "3",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "2",
+        "Name": "UMS"
+    },
+    {
+        "Level": "T1",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK 5"
+    },
+    {
+        "Level": "T3",
+        "Name": "UUM"
+    },
+    {
+        "Level": "T3",
+        "Name": "UM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KVS ROTI 2"
+    },
+    {
+        "Level": "T2",
+        "Name": "UTM"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PK4"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR PEMBUNGKUSAN 1"
+    },
+    {
+        "Level": "T3",
+        "Name": "USM"
+    },
+    {
+        "Level": "T3",
+        "Name": "UIA"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR PEMBUNGKUSAN 2"
+    },
+    {
+        "Level": "T4",
+        "Name": "UUM"
+    },
+    {
+        "Level": "T4",
+        "Name": "UM"
+    },
+    {
+        "Level": "T3",
+        "Name": "UITM"
+    },
+    {
+        "Level": "T5",
+        "Name": "UPM"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "PK2"
+    },
+    {
+        "Level": "T4",
+        "Name": "USM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "TINGKATAN 3"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK TINGKATAN 4"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "TINGKATAN 4"
+    },
+    {
+        "Level": "3",
+        "Name": "UTM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KVS ROTI 3"
+    },
+    {
+        "Level": "T2",
+        "Name": "UMS"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR KEBUN 2"
+    },
+    {
+        "Level": "T1",
+        "Name": "UTM"
+    },
+    {
+        "Level": "5",
+        "Name": "UPM"
+    },
+    {
+        "Level": "T2",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH TINGKATAN 3"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK 2"
+    },
+    {
+        "Level": "5",
+        "Name": "SLDN KFC"
+    },
+    {
+        "Level": "T3",
+        "Name": "UPM"
+    },
+    {
+        "Level": "3",
+        "Name": "UMS"
+    },
+    {
+        "Level": "T5",
+        "Name": "UKM"
+    },
+    {
+        "Level": "KKM",
+        "Name": "PK1"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK 7"
+    },
+    {
+        "Level": "T1",
+        "Name": "UMS"
+    },
+    {
+        "Level": "5",
+        "Name": "UUM"
+    },
+    {
+        "Level": "5",
+        "Name": "UM"
+    },
+    {
+        "Level": "T3",
+        "Name": "UTM"
+    },
+    {
+        "Level": "3",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "5",
+        "Name": "USM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR KEBUN 1"
+    },
+    {
+        "Level": "T4",
+        "Name": "UPM"
+    },
+    {
+        "Level": "T5",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "T5",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "T1",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "5",
+        "Name": "UKM"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "TINGKATAN 2"
+    },
+    {
+        "Level": "5",
+        "Name": "UITM"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PK5"
+    },
+    {
+        "Level": "T4",
+        "Name": "UTM"
+    },
+    {
+        "Level": "KHAM",
+        "Name": "PK5"
+    },
+    {
+        "Level": "T3",
+        "Name": "UKM"
+    },
+    {
+        "Level": "5",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "1",
+        "Name": "UUM"
+    },
+    {
+        "Level": "1",
+        "Name": "UM"
+    },
+    {
+        "Level": "4",
+        "Name": "UIA"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK7"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH TINGKATAN 2"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK1"
+    },
+    {
+        "Level": "1",
+        "Name": "USM"
+    },
+    {
+        "Level": "T3",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK TINGKATAN 2"
+    },
+    {
+        "Level": "T3",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "1",
+        "Name": "UIA"
+    },
+    {
+        "Level": "T4",
+        "Name": "UKM"
+    },
+    {
+        "Level": "2",
+        "Name": "UUM"
+    },
+    {
+        "Level": "2",
+        "Name": "UM"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "PK 4"
+    },
+    {
+        "Level": "KKM",
+        "Name": "PK2"
+    }
+]

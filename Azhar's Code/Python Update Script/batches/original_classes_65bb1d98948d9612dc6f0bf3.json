@@ -1,0 +1,682 @@
+[
+    {
+        "Level": "1",
+        "Name": "E"
+    },
+    {
+        "Level": "4",
+        "Name": "UITM"
+    },
+    {
+        "Level": "4",
+        "Name": "UMT"
+    },
+    {
+        "Level": "1",
+        "Name": "SAPPHIRE"
+    },
+    {
+        "Level": "1",
+        "Name": "UTHM A"
+    },
+    {
+        "Level": "4",
+        "Name": "PEARL"
+    },
+    {
+        "Level": "2",
+        "Name": "DIAMOND"
+    },
+    {
+        "Level": "3",
+        "Name": "JADE"
+    },
+    {
+        "Level": "3",
+        "Name": "UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "EMERALD"
+    },
+    {
+        "Level": "5",
+        "Name": "AMBER"
+    },
+    {
+        "Level": "5",
+        "Name": "CITRINE"
+    },
+    {
+        "Level": "5",
+        "Name": "CRYSTAL"
+    },
+    {
+        "Level": "1",
+        "Name": "UPM A"
+    },
+    {
+        "Level": "4",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "5",
+        "Name": "JADE"
+    },
+    {
+        "Level": "5",
+        "Name": "UPM"
+    },
+    {
+        "Level": "3",
+        "Name": "AGATE"
+    },
+    {
+        "Level": "2",
+        "Name": "CITRINE"
+    },
+    {
+        "Level": "3",
+        "Name": "UMS"
+    },
+    {
+        "Level": "3",
+        "Name": "UUM"
+    },
+    {
+        "Level": "4",
+        "Name": "SAPPHIRE"
+    },
+    {
+        "Level": "4",
+        "Name": "UTM"
+    },
+    {
+        "Level": "5",
+        "Name": "AGATE"
+    },
+    {
+        "Level": "1",
+        "Name": "G"
+    },
+    {
+        "Level": "1",
+        "Name": "L"
+    },
+    {
+        "Level": "2",
+        "Name": "JADE"
+    },
+    {
+        "Level": "2",
+        "Name": "UPM"
+    },
+    {
+        "Level": "2",
+        "Name": "UIA"
+    },
+    {
+        "Level": "6",
+        "Name": "UKM"
+    },
+    {
+        "Level": "5",
+        "Name": "UUM"
+    },
+    {
+        "Level": "6",
+        "Name": "UM"
+    },
+    {
+        "Level": "6",
+        "Name": "DIAMOND"
+    },
+    {
+        "Level": "6",
+        "Name": "TOPAZ"
+    },
+    {
+        "Level": "1",
+        "Name": "DIAMOND"
+    },
+    {
+        "Level": "ELITE",
+        "Name": "2"
+    },
+    {
+        "Level": "PRASEKOLAH",
+        "Name": "ELITE 1"
+    },
+    {
+        "Level": "2",
+        "Name": "UMS"
+    },
+    {
+        "Level": "2",
+        "Name": "UUM"
+    },
+    {
+        "Level": "1",
+        "Name": "TOPAZ"
+    },
+    {
+        "Level": "1",
+        "Name": "C"
+    },
+    {
+        "Level": "3",
+        "Name": "AMBER"
+    },
+    {
+        "Level": "1",
+        "Name": "CITRINE"
+    },
+    {
+        "Level": "4",
+        "Name": "UM"
+    },
+    {
+        "Level": "6",
+        "Name": "JADE"
+    },
+    {
+        "Level": "4",
+        "Name": "UKM"
+    },
+    {
+        "Level": "6",
+        "Name": "UIA"
+    },
+    {
+        "Level": "2",
+        "Name": "USM"
+    },
+    {
+        "Level": "6",
+        "Name": "UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "DIAMOND"
+    },
+    {
+        "Level": "6",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "PRA",
+        "Name": "INTELEK 2"
+    },
+    {
+        "Level": "1",
+        "Name": "JADE"
+    },
+    {
+        "Level": "PRA",
+        "Name": "ELITE 1"
+    },
+    {
+        "Level": "4",
+        "Name": "TOPAZ"
+    },
+    {
+        "Level": "6",
+        "Name": "UMS"
+    },
+    {
+        "Level": "6",
+        "Name": "UUM"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "3",
+        "Name": "GARNET"
+    },
+    {
+        "Level": "2",
+        "Name": "AMBER"
+    },
+    {
+        "Level": "1",
+        "Name": "UPSI A"
+    },
+    {
+        "Level": "1",
+        "Name": "UM A"
+    },
+    {
+        "Level": "1",
+        "Name": "UMT A"
+    },
+    {
+        "Level": "4",
+        "Name": "JADE"
+    },
+    {
+        "Level": "4",
+        "Name": "UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "UIA"
+    },
+    {
+        "Level": "1",
+        "Name": "B"
+    },
+    {
+        "Level": "5",
+        "Name": "GARNET"
+    },
+    {
+        "Level": "6",
+        "Name": "USM"
+    },
+    {
+        "Level": "4",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "3",
+        "Name": "RUBY"
+    },
+    {
+        "Level": "3",
+        "Name": "UITM"
+    },
+    {
+        "Level": "3",
+        "Name": "UMT"
+    },
+    {
+        "Level": "3",
+        "Name": "PEARL"
+    },
+    {
+        "Level": "1",
+        "Name": "UITM A"
+    },
+    {
+        "Level": "1",
+        "Name": "D"
+    },
+    {
+        "Level": "5",
+        "Name": "RUBY"
+    },
+    {
+        "Level": "5",
+        "Name": "UITM"
+    },
+    {
+        "Level": "5",
+        "Name": "UMT"
+    },
+    {
+        "Level": "4",
+        "Name": "UMS"
+    },
+    {
+        "Level": "3",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "2",
+        "Name": "GARNET"
+    },
+    {
+        "Level": "4",
+        "Name": "UUM"
+    },
+    {
+        "Level": "5",
+        "Name": "PEARL"
+    },
+    {
+        "Level": "PRASEKOLAH",
+        "Name": "INTELEK 2"
+    },
+    {
+        "Level": "6",
+        "Name": "AMBER"
+    },
+    {
+        "Level": "6",
+        "Name": "CITRINE"
+    },
+    {
+        "Level": "1",
+        "Name": "K"
+    },
+    {
+        "Level": "5",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "6",
+        "Name": "CRYSTAL"
+    },
+    {
+        "Level": "3",
+        "Name": "UTM"
+    },
+    {
+        "Level": "2",
+        "Name": "RUBY"
+    },
+    {
+        "Level": "2",
+        "Name": "UMT"
+    },
+    {
+        "Level": "2",
+        "Name": "UITM"
+    },
+    {
+        "Level": "4",
+        "Name": "USM"
+    },
+    {
+        "Level": "1",
+        "Name": "AMBER"
+    },
+    {
+        "Level": "2",
+        "Name": "PEARL"
+    },
+    {
+        "Level": "1",
+        "Name": "CRYSTAL"
+    },
+    {
+        "Level": "5",
+        "Name": "UTM"
+    },
+    {
+        "Level": "1",
+        "Name": "J"
+    },
+    {
+        "Level": "2",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "PRA",
+        "Name": "INTELEK 1"
+    },
+    {
+        "Level": "PRA",
+        "Name": "ELITE 2"
+    },
+    {
+        "Level": "1",
+        "Name": "F"
+    },
+    {
+        "Level": "6",
+        "Name": "AGATE"
+    },
+    {
+        "Level": "kelas",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "6",
+        "Name": "GARNET"
+    },
+    {
+        "Level": "1",
+        "Name": "UIA A"
+    },
+    {
+        "Level": "1",
+        "Name": "UTM A"
+    },
+    {
+        "Level": "1",
+        "Name": "I"
+    },
+    {
+        "Level": "1",
+        "Name": "AGATE"
+    },
+    {
+        "Level": "2",
+        "Name": "UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "AMBER"
+    },
+    {
+        "Level": "4",
+        "Name": "CITRINE"
+    },
+    {
+        "Level": "1",
+        "Name": "GARNET"
+    },
+    {
+        "Level": "4",
+        "Name": "CRYSTAL"
+    },
+    {
+        "Level": "0",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "3",
+        "Name": "UM"
+    },
+    {
+        "Level": "3",
+        "Name": "UKM"
+    },
+    {
+        "Level": "1",
+        "Name": "RUBY"
+    },
+    {
+        "Level": "1",
+        "Name": "UITM"
+    },
+    {
+        "Level": "1",
+        "Name": "PEARL"
+    },
+    {
+        "Level": "3",
+        "Name": "EMERALD"
+    },
+    {
+        "Level": "5",
+        "Name": "UM"
+    },
+    {
+        "Level": "1",
+        "Name": "UKM A"
+    },
+    {
+        "Level": "4",
+        "Name": "AGATE"
+    },
+    {
+        "Level": "5",
+        "Name": "UKM"
+    },
+    {
+        "Level": "3",
+        "Name": "TOPAZ"
+    },
+    {
+        "Level": "4",
+        "Name": "GARNET"
+    },
+    {
+        "Level": "INTELEK",
+        "Name": "1"
+    },
+    {
+        "Level": "5",
+        "Name": "EMERALD"
+    },
+    {
+        "Level": "PRASEKOLAH",
+        "Name": "INTELEK 1"
+    },
+    {
+        "Level": "PRASEKOLAH",
+        "Name": "ELITE 2"
+    },
+    {
+        "Level": "5",
+        "Name": "TOPAZ"
+    },
+    {
+        "Level": "2",
+        "Name": "UM"
+    },
+    {
+        "Level": "2",
+        "Name": "UKM"
+    },
+    {
+        "Level": "3",
+        "Name": "SAPPHIRE"
+    },
+    {
+        "Level": "1",
+        "Name": "A"
+    },
+    {
+        "Level": "3",
+        "Name": "UIA"
+    },
+    {
+        "Level": "1",
+        "Name": "UMS A"
+    },
+    {
+        "Level": "2",
+        "Name": "EMERALD"
+    },
+    {
+        "Level": "3",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "5",
+        "Name": "SAPPHIRE"
+    },
+    {
+        "Level": "2",
+        "Name": "TOPAZ"
+    },
+    {
+        "Level": "5",
+        "Name": "UIA"
+    },
+    {
+        "Level": "5",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "1",
+        "Name": "H"
+    },
+    {
+        "Level": "2",
+        "Name": "SAPPHIRE"
+    },
+    {
+        "Level": "5",
+        "Name": "UMS"
+    },
+    {
+        "Level": "2",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "6",
+        "Name": "RUBY"
+    },
+    {
+        "Level": "6",
+        "Name": "UITM"
+    },
+    {
+        "Level": "6",
+        "Name": "UMT"
+    },
+    {
+        "Level": "3",
+        "Name": "USM"
+    },
+    {
+        "Level": "6",
+        "Name": "PEARL"
+    },
+    {
+        "Level": "6",
+        "Name": "EMERALD"
+    },
+    {
+        "Level": "3",
+        "Name": "DIAMOND"
+    },
+    {
+        "Level": "INTELEK",
+        "Name": "2"
+    },
+    {
+        "Level": "5",
+        "Name": "USM"
+    },
+    {
+        "Level": "6",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "1",
+        "Name": "EMERALD"
+    },
+    {
+        "Level": "5",
+        "Name": "DIAMOND"
+    },
+    {
+        "Level": "1",
+        "Name": "USM A"
+    },
+    {
+        "Level": "ELITE",
+        "Name": "1"
+    },
+    {
+        "Level": "6",
+        "Name": "SAPPHIRE"
+    },
+    {
+        "Level": "6",
+        "Name": "UTM"
+    },
+    {
+        "Level": "3",
+        "Name": "CITRINE"
+    },
+    {
+        "Level": "1",
+        "Name": "UUM A"
+    },
+    {
+        "Level": "3",
+        "Name": "CRYSTAL"
+    },
+    {
+        "Level": "4",
+        "Name": "RUBY"
+    }
+]

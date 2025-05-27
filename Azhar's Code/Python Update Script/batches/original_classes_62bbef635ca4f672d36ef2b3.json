@@ -1,0 +1,158 @@
+[
+    {
+        "Level": "5",
+        "Name": "A"
+    },
+    {
+        "Level": "1",
+        "Name": "C"
+    },
+    {
+        "Level": "3",
+        "Name": "C"
+    },
+    {
+        "Level": "4",
+        "Name": "D"
+    },
+    {
+        "Level": "2",
+        "Name": "B"
+    },
+    {
+        "Level": "1",
+        "Name": "D"
+    },
+    {
+        "Level": "4",
+        "Name": "E"
+    },
+    {
+        "Level": "3",
+        "Name": "D"
+    },
+    {
+        "Level": "2",
+        "Name": "C"
+    },
+    {
+        "Level": "1",
+        "Name": "E"
+    },
+    {
+        "Level": "3",
+        "Name": "E"
+    },
+    {
+        "Level": "2",
+        "Name": "D"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "PERALIHAN"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "A"
+    },
+    {
+        "Level": "4",
+        "Name": "F"
+    },
+    {
+        "Level": "2",
+        "Name": "E"
+    },
+    {
+        "Level": "5",
+        "Name": "B"
+    },
+    {
+        "Level": "1",
+        "Name": "F"
+    },
+    {
+        "Level": "3",
+        "Name": "F"
+    },
+    {
+        "Level": "4",
+        "Name": "A"
+    },
+    {
+        "Level": "5",
+        "Name": "PVMA"
+    },
+    {
+        "Level": "5",
+        "Name": "C"
+    },
+    {
+        "Level": "1",
+        "Name": "A"
+    },
+    {
+        "Level": "2",
+        "Name": "F"
+    },
+    {
+        "Level": "3",
+        "Name": "A"
+    },
+    {
+        "Level": "5",
+        "Name": "D"
+    },
+    {
+        "Level": "1",
+        "Name": "G"
+    },
+    {
+        "Level": "3",
+        "Name": "G"
+    },
+    {
+        "Level": "2",
+        "Name": "A"
+    },
+    {
+        "Level": "5",
+        "Name": "E"
+    },
+    {
+        "Level": "0",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "2",
+        "Name": "G"
+    },
+    {
+        "Level": "4",
+        "Name": "B"
+    },
+    {
+        "Level": "4",
+        "Name": "PVMA"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "1",
+        "Name": "B"
+    },
+    {
+        "Level": "3",
+        "Name": "B"
+    },
+    {
+        "Level": "4",
+        "Name": "C"
+    },
+    {
+        "Level": "5",
+        "Name": "F"
+    }
+]

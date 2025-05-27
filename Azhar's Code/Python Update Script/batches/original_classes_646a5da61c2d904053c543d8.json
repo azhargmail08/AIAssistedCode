@@ -1,0 +1,946 @@
+[
+    {
+        "Level": "1",
+        "Name": "1 ELIT"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UNIKL"
+    },
+    {
+        "Level": "1",
+        "Name": "1 USM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 CEMERLANG"
+    },
+    {
+        "Level": "2",
+        "Name": "2 INTELEK"
+    },
+    {
+        "Level": "4",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "AKASIA 6"
+    },
+    {
+        "Level": "3",
+        "Name": "ELIT"
+    },
+    {
+        "Level": "2",
+        "Name": "HIKMAH"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "AKASIA 1"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UIA"
+    },
+    {
+        "Level": "3",
+        "Name": "UKM"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SG"
+    },
+    {
+        "Level": "3",
+        "Name": "UIA"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SN"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UPM"
+    },
+    {
+        "Level": "5",
+        "Name": "SV 6"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "AKASIA 4"
+    },
+    {
+        "Level": "5",
+        "Name": "UKM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 FIKRAH"
+    },
+    {
+        "Level": "5",
+        "Name": "USM"
+    },
+    {
+        "Level": "1",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTP"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SV 3"
+    },
+    {
+        "Level": "3",
+        "Name": "3 ELIT"
+    },
+    {
+        "Level": "4",
+        "Name": "4 UPSI"
+    },
+    {
+        "Level": "5",
+        "Name": "AKAUN"
+    },
+    {
+        "Level": "1",
+        "Name": "FIKRAH"
+    },
+    {
+        "Level": "2",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SAINS"
+    },
+    {
+        "Level": "1",
+        "Name": "1 BESTARI"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 DINAMIK"
+    },
+    {
+        "Level": "4",
+        "Name": "UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "SV 3"
+    },
+    {
+        "Level": "5",
+        "Name": "5 UIA"
+    },
+    {
+        "Level": "5",
+        "Name": "TEKNIKAL"
+    },
+    {
+        "Level": "5",
+        "Name": "IK 2"
+    },
+    {
+        "Level": "5",
+        "Name": "5 UTP"
+    },
+    {
+        "Level": "3",
+        "Name": "3 KREATIF"
+    },
+    {
+        "Level": "5",
+        "Name": "5 AK"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "AKASIA 7"
+    },
+    {
+        "Level": "1",
+        "Name": "UKM"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SV 5"
+    },
+    {
+        "Level": "5",
+        "Name": "5 AKAUN"
+    },
+    {
+        "Level": "2",
+        "Name": "ULTIMATE"
+    },
+    {
+        "Level": "1",
+        "Name": "USM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UPSI"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SV 6"
+    },
+    {
+        "Level": "2",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "4",
+        "Name": "UM"
+    },
+    {
+        "Level": "1",
+        "Name": "LUHUR"
+    },
+    {
+        "Level": "2",
+        "Name": "UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SAINS SUKAN"
+    },
+    {
+        "Level": "3",
+        "Name": "FIKRAH"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SAINS"
+    },
+    {
+        "Level": "5",
+        "Name": "5 UM"
+    },
+    {
+        "Level": "1",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "4",
+        "Name": "4 UTP"
+    },
+    {
+        "Level": "5",
+        "Name": "5 UKM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UKM"
+    },
+    {
+        "Level": "AKASIA",
+        "Name": "2"
+    },
+    {
+        "Level": "4",
+        "Name": "4 USM"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SV 2"
+    },
+    {
+        "Level": "4",
+        "Name": "SV 4"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UNIKL"
+    },
+    {
+        "Level": "1",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "3",
+        "Name": "3 CEMERLANG"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTM"
+    },
+    {
+        "Level": "5",
+        "Name": "5 IK 2"
+    },
+    {
+        "Level": "4",
+        "Name": "SV 2"
+    },
+    {
+        "Level": "1",
+        "Name": "ARIF"
+    },
+    {
+        "Level": "1",
+        "Name": "MULIA"
+    },
+    {
+        "Level": "3",
+        "Name": "3 DINAMIK"
+    },
+    {
+        "Level": "1",
+        "Name": "KREATIF"
+    },
+    {
+        "Level": "2",
+        "Name": "2 KREATIF"
+    },
+    {
+        "Level": "4",
+        "Name": "SV 5"
+    },
+    {
+        "Level": "3",
+        "Name": "USM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UPM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 LUHUR"
+    },
+    {
+        "Level": "2",
+        "Name": "ELIT"
+    },
+    {
+        "Level": "5",
+        "Name": "5 USM"
+    },
+    {
+        "Level": "3",
+        "Name": "UTP"
+    },
+    {
+        "Level": "4",
+        "Name": "4 IK 2"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH AKASIA 7"
+    },
+    {
+        "Level": "AKASIA",
+        "Name": "1"
+    },
+    {
+        "Level": "AKASIA",
+        "Name": "5"
+    },
+    {
+        "Level": "2",
+        "Name": "UKM"
+    },
+    {
+        "Level": "3",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UTHM"
+    },
+    {
+        "Level": "3",
+        "Name": "UM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 MULIA"
+    },
+    {
+        "Level": "5",
+        "Name": "UTP"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "AKASIA 2"
+    },
+    {
+        "Level": "2",
+        "Name": "UIA"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SV 1"
+    },
+    {
+        "Level": "1",
+        "Name": "1 JITU"
+    },
+    {
+        "Level": "5",
+        "Name": "UM"
+    },
+    {
+        "Level": "3",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH AKASIA 1"
+    },
+    {
+        "Level": "4",
+        "Name": "SAINS"
+    },
+    {
+        "Level": "1",
+        "Name": "JITU"
+    },
+    {
+        "Level": "3",
+        "Name": "ARIF"
+    },
+    {
+        "Level": "2",
+        "Name": "2 DINAMIK"
+    },
+    {
+        "Level": "3",
+        "Name": "KREATIF"
+    },
+    {
+        "Level": "4",
+        "Name": "IK 1"
+    },
+    {
+        "Level": "5",
+        "Name": "5 IK 1"
+    },
+    {
+        "Level": "1",
+        "Name": "UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "SG"
+    },
+    {
+        "Level": "5",
+        "Name": "SV 4"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UKM"
+    },
+    {
+        "Level": "5",
+        "Name": "5 TEKNIKAL"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "AKASIA 5"
+    },
+    {
+        "Level": "2",
+        "Name": "2 JITU"
+    },
+    {
+        "Level": "4",
+        "Name": "SAINS SUKAN"
+    },
+    {
+        "Level": "2",
+        "Name": "2 ARIF"
+    },
+    {
+        "Level": "4",
+        "Name": "SV 1"
+    },
+    {
+        "Level": "1",
+        "Name": "UTP"
+    },
+    {
+        "Level": "5",
+        "Name": "SV 5"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH AKASIA 5"
+    },
+    {
+        "Level": "1",
+        "Name": "1 ARIF"
+    },
+    {
+        "Level": "2",
+        "Name": "2 BESTARI"
+    },
+    {
+        "Level": "3",
+        "Name": "3 JITU"
+    },
+    {
+        "Level": "4",
+        "Name": "UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "4 UIA"
+    },
+    {
+        "Level": "1",
+        "Name": "UM"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SV 4"
+    },
+    {
+        "Level": "3",
+        "Name": "3 USM"
+    },
+    {
+        "Level": "2",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "1",
+        "Name": "UNIKL"
+    },
+    {
+        "Level": "3",
+        "Name": "JITU"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SN"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UTP"
+    },
+    {
+        "Level": "2",
+        "Name": "2 GEMILANG"
+    },
+    {
+        "Level": "5",
+        "Name": "5 UTM"
+    },
+    {
+        "Level": "1",
+        "Name": "DINAMIK"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SV 2"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH AKASIA 2"
+    },
+    {
+        "Level": "5",
+        "Name": "5 UPM"
+    },
+    {
+        "Level": "2",
+        "Name": "FIKRAH"
+    },
+    {
+        "Level": "3",
+        "Name": "UPM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 USM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 HIKMAH"
+    },
+    {
+        "Level": "1",
+        "Name": "1 KREATIF"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTHM"
+    },
+    {
+        "Level": "5",
+        "Name": "UPM"
+    },
+    {
+        "Level": "1",
+        "Name": "HIKMAH"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SV 3"
+    },
+    {
+        "Level": "1",
+        "Name": "1 ULTIMATE"
+    },
+    {
+        "Level": "3",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "4",
+        "Name": "4 AK"
+    },
+    {
+        "Level": "5",
+        "Name": "IK 1"
+    },
+    {
+        "Level": "2",
+        "Name": "2 ELIT"
+    },
+    {
+        "Level": "5",
+        "Name": "SV 3"
+    },
+    {
+        "Level": "2",
+        "Name": "2 ULTIMATE"
+    },
+    {
+        "Level": "4",
+        "Name": "SV 6"
+    },
+    {
+        "Level": "5",
+        "Name": "SG"
+    },
+    {
+        "Level": "2",
+        "Name": "USM"
+    },
+    {
+        "Level": "3",
+        "Name": "UNIKL"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SG"
+    },
+    {
+        "Level": "4",
+        "Name": "UKM"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SV 4"
+    },
+    {
+        "Level": "3",
+        "Name": "3 ULTIMATE"
+    },
+    {
+        "Level": "2",
+        "Name": "UTP"
+    },
+    {
+        "Level": "3",
+        "Name": "DINAMIK"
+    },
+    {
+        "Level": "4",
+        "Name": "UIA"
+    },
+    {
+        "Level": "4",
+        "Name": "4 UKM"
+    },
+    {
+        "Level": "2",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "AKASIA",
+        "Name": "7"
+    },
+    {
+        "Level": "2",
+        "Name": "2 FIKRAH"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UIA"
+    },
+    {
+        "Level": "3",
+        "Name": "3 INTELEK"
+    },
+    {
+        "Level": "3",
+        "Name": "HIKMAH"
+    },
+    {
+        "Level": "1",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UIA"
+    },
+    {
+        "Level": "2",
+        "Name": "UPSI"
+    },
+    {
+        "Level": "3",
+        "Name": "3 GEMILANG"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SV 5"
+    },
+    {
+        "Level": "3",
+        "Name": "3 ARIF"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "AKASIA 3"
+    },
+    {
+        "Level": "2",
+        "Name": "ARIF"
+    },
+    {
+        "Level": "4",
+        "Name": "IK 2"
+    },
+    {
+        "Level": "2",
+        "Name": "KREATIF"
+    },
+    {
+        "Level": "5",
+        "Name": "SV 2"
+    },
+    {
+        "Level": "4",
+        "Name": "4 UTM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UPM"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH AKASIA 6"
+    },
+    {
+        "Level": "1",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 BESTARI"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UKM"
+    },
+    {
+        "Level": "AKASIA",
+        "Name": "4"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "1",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "1",
+        "Name": "UTM"
+    },
+    {
+        "Level": "3",
+        "Name": "INTELEK"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SV 1"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UNIKL"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "PERALIHAN"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UTM"
+    },
+    {
+        "Level": "2",
+        "Name": "JITU"
+    },
+    {
+        "Level": "5",
+        "Name": "UIA"
+    },
+    {
+        "Level": "5",
+        "Name": "SAINS"
+    },
+    {
+        "Level": "4",
+        "Name": "4 IK 1"
+    },
+    {
+        "Level": "4",
+        "Name": "4 UM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 GEMILANG"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UPSI"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH AKASIA 3"
+    },
+    {
+        "Level": "2",
+        "Name": "2 HIKMAH"
+    },
+    {
+        "Level": "1",
+        "Name": "1 HIKMAH"
+    },
+    {
+        "Level": "4",
+        "Name": "4 UPM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UPSI"
+    },
+    {
+        "Level": "3",
+        "Name": "ULTIMATE"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UTHM"
+    },
+    {
+        "Level": "3",
+        "Name": "GEMILANG"
+    },
+    {
+        "Level": "1",
+        "Name": "ELIT"
+    },
+    {
+        "Level": "5",
+        "Name": "5 SV 6"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH AKASIA 4"
+    },
+    {
+        "Level": "1",
+        "Name": "1 INTELEK"
+    },
+    {
+        "Level": "4",
+        "Name": "USM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 CEMERLANG"
+    },
+    {
+        "Level": "1",
+        "Name": "1 FIKRAH"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UTP"
+    },
+    {
+        "Level": "3",
+        "Name": "UTM"
+    },
+    {
+        "Level": "2",
+        "Name": "CEMERLANG"
+    },
+    {
+        "Level": "4",
+        "Name": "UTP"
+    },
+    {
+        "Level": "5",
+        "Name": "SV 1"
+    },
+    {
+        "Level": "4",
+        "Name": "AKAUN"
+    },
+    {
+        "Level": "2",
+        "Name": "UM"
+    },
+    {
+        "Level": "4",
+        "Name": "4 AKAUN"
+    },
+    {
+        "Level": "2",
+        "Name": "UNIKL"
+    },
+    {
+        "Level": "5",
+        "Name": "UTM"
+    },
+    {
+        "Level": "1",
+        "Name": "UIA"
+    },
+    {
+        "Level": "2",
+        "Name": "DINAMIK"
+    }
+]

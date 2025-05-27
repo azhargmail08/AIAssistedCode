@@ -1,0 +1,590 @@
+[
+    {
+        "#": "1",
+        "Name": "JEFFERY TOH\nID: 66756e2f7f0f90c786e38b40",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "2",
+        "Name": "TEE ZI YANG\nID: 66756e2f7f0f90c786e38b42",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "3",
+        "Name": "LIM CHAU LING\nID: 66756e2f7f0f90c786e38b44",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "4",
+        "Name": "JUSTIN TAY JUN HONG\nID: 66756e2f7f0f90c786e38b45",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "5",
+        "Name": "LAW PUEY HOM\nID: 66756e2f7f0f90c786e38b46",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "6",
+        "Name": "HENRIC TAY YING WEI\nID: 66756e2f7f0f90c786e38b48",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "7",
+        "Name": "LIM ZHI XIN\nID: 66756e2f7f0f90c786e38b49",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "8",
+        "Name": "CHAN KUAN MING\nID: 66756e2f7f0f90c786e38b4b",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "9",
+        "Name": "JAYDEN LIM YU ZHE\nID: 66756e2f7f0f90c786e38b4d",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "10",
+        "Name": "LEE ZHI XUN\nID: 66756e2f7f0f90c786e38b4e",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "11",
+        "Name": "LOW EE RON\nID: 66756e2f7f0f90c786e38b4f",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "12",
+        "Name": "WONG KAI ZHE\nID: 66756e2f7f0f90c786e38b50",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "13",
+        "Name": "NUR QISYA ELVIRA BINTI MUHAMMAD FAKRUL\nID: 66756e2f7f0f90c786e38b51",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "14",
+        "Name": "NG KE XING\nID: 66756e307f0f90c786e38b52",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "15",
+        "Name": "YVNESS CHUA YU XUAN\nID: 66756e307f0f90c786e38b53",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "16",
+        "Name": "LIM LER YEE\nID: 66756e307f0f90c786e38b54",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "17",
+        "Name": "SOH CHIN GUAN\nID: 66756e307f0f90c786e38b55",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "18",
+        "Name": "KEVIN TOH LI CHENG\nID: 66756e307f0f90c786e38b56",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "19",
+        "Name": "GAN YU TANG\nID: 66756e307f0f90c786e38b57",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "20",
+        "Name": "TAN YU TONG\nID: 66756e307f0f90c786e38b58",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "21",
+        "Name": "CHEW THIAN SIIN\nID: 66756e307f0f90c786e38b59",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "22",
+        "Name": "HUAN WEN HUI\nID: 66756e307f0f90c786e38b5a",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "23",
+        "Name": "MUHAMMAD MIFTAH BIN MOHD KHAIRULZAMAN\nID: 66756e307f0f90c786e38b5b",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "24",
+        "Name": "MUHAMMAD DANISH RIZQ BIN MOHD HAIRUL HISHAM\nID: 66756e307f0f90c786e38b5c",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "25",
+        "Name": "CHEE JIA MIN\nID: 66756e307f0f90c786e38b5d",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "26",
+        "Name": "LIM JUN YI\nID: 66756e307f0f90c786e38b5e",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "27",
+        "Name": "IQLIMAH BINTI MOHD KHAIRULZAMAN\nID: 66756e307f0f90c786e38b5f",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "28",
+        "Name": "MUHAMMAD AL MATEEN BIN MOHD KHAIRULZAMAN\nID: 66756e307f0f90c786e38b60",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "29",
+        "Name": "CHEN JIN FU\nID: 66756e307f0f90c786e38b61",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "30",
+        "Name": "JENSHEN TAN\nID: 66756e307f0f90c786e38b62",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "31",
+        "Name": "TAY YEE XUAN\nID: 66756e307f0f90c786e38b63",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "32",
+        "Name": "JESSLYN TAN\nID: 66756e307f0f90c786e38b64",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "33",
+        "Name": "ZEA RAESHA ARABELL BINTI ABDUL HAFIZ\nID: 66756e307f0f90c786e38b65",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "34",
+        "Name": "GEM LAU QIAO LE\nID: 66756e307f0f90c786e38b66",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "35",
+        "Name": "CHAN WIN SERN\nID: 66756e307f0f90c786e38b67",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "36",
+        "Name": "SEAH PEI YI\nID: 66756e307f0f90c786e38b68",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "37",
+        "Name": "MUHAMMAD FAKHRUL RIDZUAN BIN ESWARDY\nID: 66756e317f0f90c786e38b69",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "38",
+        "Name": "GAN YU ZHER\nID: 66756e317f0f90c786e38b6a",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "39",
+        "Name": "CHAN YUEN CHIN\nID: 66756e317f0f90c786e38b6b",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "40",
+        "Name": "LAW QI XIAN\nID: 66756e317f0f90c786e38b6c",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "41",
+        "Name": "TEE YU XIN\nID: 66756e317f0f90c786e38b6d",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "42",
+        "Name": "TEE YANG XIAO\nID: 66756e317f0f90c786e38b6e",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "43",
+        "Name": "CHEW JINN HUNG\nID: 66756e317f0f90c786e38b6f",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "44",
+        "Name": "NICHOLAS TAN HUA JIAN\nID: 66756e317f0f90c786e38b70",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "45",
+        "Name": "ARIANA ADAWIYAH BINTI AHMAD NIZAR\nID: 66756e317f0f90c786e38b71",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "46",
+        "Name": "EVA TEE\nID: 66756e317f0f90c786e38b72",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "47",
+        "Name": "TEY ZI YANG\nID: 66756e317f0f90c786e38b73",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "48",
+        "Name": "TOH QIN HAO\nID: 66756e317f0f90c786e38b74",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "49",
+        "Name": "SOH LE SHAN\nID: 66756e317f0f90c786e38b75",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "50",
+        "Name": "CHEE JIA HONG\nID: 66756e317f0f90c786e38b76",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "51",
+        "Name": "CHEW YING HANG\nID: 66756e317f0f90c786e38b77",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "52",
+        "Name": "TANG YEE SIA\nID: 66756e317f0f90c786e38b78",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "53",
+        "Name": "NURUL QAISYA SYAHIDAH BINTI MOHD SHARINZ\nID: 66756e317f0f90c786e38b79",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "54",
+        "Name": "WONG KAI YAN\nID: 66756e317f0f90c786e38b7a",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "55",
+        "Name": "LYONNA LING JIA ERN\nID: 66756e317f0f90c786e38b7b",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "56",
+        "Name": "LEE SIN YI\nID: 66756e317f0f90c786e38b7c",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "57",
+        "Name": "TAN ZHENG YU\nID: 66756e317f0f90c786e38b7d",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "58",
+        "Name": "LIM MING SHENG\nID: 66756e317f0f90c786e38b7e",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "59",
+        "Name": "CHERISH LAU QIAO ROU\nID: 66756e317f0f90c786e38b7f",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "60",
+        "Name": "LIM ZI WEI\nID: 66756e327f0f90c786e38b80",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b47\nKelas: 4 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "61",
+        "Name": "SIRHAN BIN MUHAMAD RIDZUAN NASARUDDIN\nID: 66756e327f0f90c786e38b81",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "62",
+        "Name": "TENG HOCK YUAN\nID: 66756e327f0f90c786e38b82",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "63",
+        "Name": "EUNICE ER ROU XUAN\nID: 66756e327f0f90c786e38b83",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "64",
+        "Name": "NUR IMAN DAMIA BINTI MUHAMMED YAZID\nID: 66756e327f0f90c786e38b84",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "65",
+        "Name": "EVAN KOH ZHI XUN\nID: 66756e327f0f90c786e38b85",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "66",
+        "Name": "TOH WAN YI\nID: 66756e327f0f90c786e38b86",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "67",
+        "Name": "NUR HUMAIRA AISYAH BINTI ABDUL NUR\nID: 66756e327f0f90c786e38b87",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "68",
+        "Name": "VERNA CHA YU CHEN\nID: 66756e327f0f90c786e38b88",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "69",
+        "Name": "GAN HAO SEN\nID: 66756e327f0f90c786e38b89",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "70",
+        "Name": "RICHARD ENG\nID: 66756e327f0f90c786e38b8a",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "71",
+        "Name": "LIM ZI XIN\nID: 66756e327f0f90c786e38b8b",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "72",
+        "Name": "DYLAN TAY JUN YI\nID: 66756e327f0f90c786e38b8c",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "73",
+        "Name": "WONG KAI XUAN\nID: 66756e327f0f90c786e38b8d",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "74",
+        "Name": "TENG TIAN HOCK\nID: 66756e327f0f90c786e38b8e",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "75",
+        "Name": "LOW EE FON\nID: 66756e327f0f90c786e38b8f",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "76",
+        "Name": "WONG YU TONG\nID: 66756e327f0f90c786e38b90",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "77",
+        "Name": "TEE ZI LING\nID: 66756e327f0f90c786e38b91",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "78",
+        "Name": "LIM SAN HWE\nID: 66756e327f0f90c786e38b92",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "79",
+        "Name": "GAN HAO JUN\nID: 66756e327f0f90c786e38b93",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "80",
+        "Name": "AHMAD ARYAN BIN ABDUL MUHAIMIN\nID: 66756e327f0f90c786e38b94",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b43\nKelas: 6 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "81",
+        "Name": "BALDWIN TAY YING HENG\nID: 66756e327f0f90c786e38b95",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "82",
+        "Name": "NEO ZI QI\nID: 66756e327f0f90c786e38b96",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b4a\nKelas: 5 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "83",
+        "Name": "WONG KAI JIAN\nID: 66756e327f0f90c786e38b97",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "84",
+        "Name": "MANDEL TAN\nID: 66756e337f0f90c786e38b98",
+        "Kelas": "Kelas ID: 67e0c5568c6bc512c6446b8c\nKelas: 1 ALUMNI",
+        "Status": "Active"
+    },
+    {
+        "#": "85",
+        "Name": "HAYDEN CHUA\nID: 67e0e040373bc406a228de57",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "86",
+        "Name": "YO YUE XUAN\nID: 67e0e040373bc406a228de58",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965caca1\nKelas: 2 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "87",
+        "Name": "IVAN LIM\nID: 67fe7f148e36f179965cac9a",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "88",
+        "Name": "LIM DEI BAO\nID: 67fe7f148e36f179965cac9b",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "89",
+        "Name": "VITO CHA YU HAO\nID: 67fe7f148e36f179965cac9c",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "90",
+        "Name": "MUHAMMAD ASHRAF YASSAR BIN MOHD SHARINZ\nID: 67fe7f148e36f179965cac9d",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "91",
+        "Name": "TEE ZI KANG\nID: 67fe7f148e36f179965cac9e",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "92",
+        "Name": "GAN ZHI YANG\nID: 67fe7f148e36f179965cac9f",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "93",
+        "Name": "MUHAMMAD UZAYR BIN MOHD NIZAM\nID: 67fe7f148e36f179965caca0",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "94",
+        "Name": "ADAM SEE CHING EE\nID: 67fe7f148e36f179965caca2",
+        "Kelas": "Kelas ID: 66756e2f7f0f90c786e38b41\nKelas: 3 Arif",
+        "Status": "Active"
+    },
+    {
+        "#": "95",
+        "Name": "CHEW YING JIA\nID: 67fe7f148e36f179965caca3",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "96",
+        "Name": "PEGGY CHU PEI YI\nID: 67fe7f148e36f179965caca4",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "97",
+        "Name": "SOH LE XUAN\nID: 67fe7f148e36f179965caca5",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    },
+    {
+        "#": "98",
+        "Name": "MICHELLE LEE YI HAN\nID: 67fe7f148e36f179965caca6",
+        "Kelas": "Kelas ID: 67fe7f148e36f179965cac99\nKelas: 1 ARIF",
+        "Status": "Active"
+    }
+]

@@ -1,0 +1,478 @@
+[
+    {
+        "Level": "PPKI",
+        "Name": "KAV 1"
+    },
+    {
+        "Level": "1",
+        "Name": "1 BESTARI"
+    },
+    {
+        "Level": "3",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KAV 3"
+    },
+    {
+        "Level": "1",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "1",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "1",
+        "Name": "1 GIGIH"
+    },
+    {
+        "Level": "5",
+        "Name": "5 GIGIH"
+    },
+    {
+        "Level": "1",
+        "Name": "1 FANTASTIK"
+    },
+    {
+        "Level": "5",
+        "Name": "5 DEDIKASI"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KAV 4"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR 2"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KR 5"
+    },
+    {
+        "Level": "5",
+        "Name": "FANTASTIK"
+    },
+    {
+        "Level": "3",
+        "Name": "PERMATA"
+    },
+    {
+        "Level": "1",
+        "Name": "PERMATA"
+    },
+    {
+        "Level": "6 SEM 3",
+        "Name": "PRA U ATAS"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KR 4"
+    },
+    {
+        "Level": "1",
+        "Name": "1 EFEKTIF"
+    },
+    {
+        "Level": "2",
+        "Name": "2 HARMONI"
+    },
+    {
+        "Level": "4",
+        "Name": "4 AMANAH"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR 6"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "SKM 3"
+    },
+    {
+        "Level": "5",
+        "Name": "5 EFEKTIF"
+    },
+    {
+        "Level": "6 ATAS",
+        "Name": "PRA U BAWAH"
+    },
+    {
+        "Level": "5",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "SKM 2"
+    },
+    {
+        "Level": "4",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "3",
+        "Name": "GIGIH"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KAV 2"
+    },
+    {
+        "Level": "2",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "2",
+        "Name": "2 PERMATA"
+    },
+    {
+        "Level": "3",
+        "Name": "HARMONI"
+    },
+    {
+        "Level": "5",
+        "Name": "DEDIKASI"
+    },
+    {
+        "Level": "2",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "1",
+        "Name": "GIGIH"
+    },
+    {
+        "Level": "4",
+        "Name": "DEDIKASI"
+    },
+    {
+        "Level": "3",
+        "Name": "CERGAS"
+    },
+    {
+        "Level": "1",
+        "Name": "HARMONI"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KR 3"
+    },
+    {
+        "Level": "5",
+        "Name": "5 HARMONI"
+    },
+    {
+        "Level": "1",
+        "Name": "CERGAS"
+    },
+    {
+        "Level": "3",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KR 1"
+    },
+    {
+        "Level": "1",
+        "Name": "FANTASTIK"
+    },
+    {
+        "Level": "4",
+        "Name": "4 HARMONI"
+    },
+    {
+        "Level": "1",
+        "Name": "1 DEDIKASI"
+    },
+    {
+        "Level": "4",
+        "Name": "4 CERGAS"
+    },
+    {
+        "Level": "3",
+        "Name": "3 GIGIH"
+    },
+    {
+        "Level": "1",
+        "Name": "1 HARMONI"
+    },
+    {
+        "Level": "5",
+        "Name": "5 BESTARI"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "ASASI 1"
+    },
+    {
+        "Level": "3",
+        "Name": "3 BESTARI"
+    },
+    {
+        "Level": "5",
+        "Name": "5 FANTASTIK"
+    },
+    {
+        "Level": "2",
+        "Name": "PERMATA"
+    },
+    {
+        "Level": "6 SEM 2",
+        "Name": "PRA U BAWAH"
+    },
+    {
+        "Level": "2",
+        "Name": "2 DEDIKASI"
+    },
+    {
+        "Level": "4",
+        "Name": "4 GIGIH"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KAV 5"
+    },
+    {
+        "Level": "2",
+        "Name": "2 FANTASTIK"
+    },
+    {
+        "Level": "3",
+        "Name": "3 DEDIKASI"
+    },
+    {
+        "Level": "2",
+        "Name": "2 CERGAS"
+    },
+    {
+        "Level": "2",
+        "Name": "GIGIH"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "SKM 1"
+    },
+    {
+        "Level": "2",
+        "Name": "HARMONI"
+    },
+    {
+        "Level": "4",
+        "Name": "4 DEDIKASI"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR 3"
+    },
+    {
+        "Level": "2",
+        "Name": "CERGAS"
+    },
+    {
+        "Level": "3",
+        "Name": "3 PERMATA"
+    },
+    {
+        "Level": "2",
+        "Name": "FANTASTIK"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KAV 1"
+    },
+    {
+        "Level": "3",
+        "Name": "FANTASTIK"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KAV 3"
+    },
+    {
+        "Level": "5",
+        "Name": "5 AMANAH"
+    },
+    {
+        "Level": "5",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR 5"
+    },
+    {
+        "Level": "4",
+        "Name": "BESTARI"
+    },
+    {
+        "Level": "5",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "2",
+        "Name": "2 BESTARI"
+    },
+    {
+        "Level": "4",
+        "Name": "AMANAH"
+    },
+    {
+        "Level": "3",
+        "Name": "3 EFEKTIF"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KR 2"
+    },
+    {
+        "Level": "3",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "3",
+        "Name": "3 HARMONI"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "ASASI 2"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR 4"
+    },
+    {
+        "Level": "1",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "3",
+        "Name": "DEDIKASI"
+    },
+    {
+        "Level": "3",
+        "Name": "3 CERGAS"
+    },
+    {
+        "Level": "1",
+        "Name": "DEDIKASI"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "SKM 2"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KR 6"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "SKM 4"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "KAV 2"
+    },
+    {
+        "Level": "1",
+        "Name": "1 CERGAS"
+    },
+    {
+        "Level": "5",
+        "Name": "5 CERGAS"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "KR 1"
+    },
+    {
+        "Level": "2",
+        "Name": "2 AMANAH"
+    },
+    {
+        "Level": "5",
+        "Name": "GIGIH"
+    },
+    {
+        "Level": "4",
+        "Name": "GIGIH"
+    },
+    {
+        "Level": "5",
+        "Name": "HARMONI"
+    },
+    {
+        "Level": "4",
+        "Name": "HARMONI"
+    },
+    {
+        "Level": "5",
+        "Name": "CERGAS"
+    },
+    {
+        "Level": "4",
+        "Name": "CERGAS"
+    },
+    {
+        "Level": "4",
+        "Name": "FANTASTIK"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "2",
+        "Name": "EFEKTIF"
+    },
+    {
+        "Level": "1",
+        "Name": "1 PERMATA"
+    },
+    {
+        "Level": "2",
+        "Name": "DEDIKASI"
+    },
+    {
+        "Level": "1",
+        "Name": "1 AMANAH"
+    },
+    {
+        "Level": "4",
+        "Name": "4 EFEKTIF"
+    },
+    {
+        "Level": "2",
+        "Name": "2 GIGIH"
+    },
+    {
+        "Level": "4",
+        "Name": "4 FANTASTIK"
+    },
+    {
+        "Level": "3",
+        "Name": "3 FANTASTIK"
+    },
+    {
+        "Level": "6",
+        "Name": "SEM 2 PRA U BAWAH"
+    },
+    {
+        "Level": "2",
+        "Name": "2 EFEKTIF"
+    },
+    {
+        "Level": "3",
+        "Name": "3 AMANAH"
+    },
+    {
+        "Level": "KHAS MENENGAH",
+        "Name": "SKM 1"
+    },
+    {
+        "Level": "4",
+        "Name": "4 BESTARI"
+    }
+]

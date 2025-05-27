@@ -1,0 +1,390 @@
+[
+    {
+        "Level": "1",
+        "Name": "1P"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "PB"
+    },
+    {
+        "Level": "3",
+        "Name": "K"
+    },
+    {
+        "Level": "1",
+        "Name": "1K"
+    },
+    {
+        "Level": "2",
+        "Name": "2U"
+    },
+    {
+        "Level": "3",
+        "Name": "U"
+    },
+    {
+        "Level": "2",
+        "Name": "M"
+    },
+    {
+        "Level": "2",
+        "Name": "L"
+    },
+    {
+        "Level": "4",
+        "Name": "4T"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PEND. KHAS(K)"
+    },
+    {
+        "Level": "3",
+        "Name": "3U"
+    },
+    {
+        "Level": "4",
+        "Name": "P"
+    },
+    {
+        "Level": "1",
+        "Name": "1L"
+    },
+    {
+        "Level": "1",
+        "Name": "1S"
+    },
+    {
+        "Level": "3",
+        "Name": "3L"
+    },
+    {
+        "Level": "2",
+        "Name": "2S"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PEND. KHAS (S)"
+    },
+    {
+        "Level": "4",
+        "Name": "4K"
+    },
+    {
+        "Level": "2",
+        "Name": "K"
+    },
+    {
+        "Level": "3",
+        "Name": "M"
+    },
+    {
+        "Level": "3",
+        "Name": "A"
+    },
+    {
+        "Level": "3",
+        "Name": "L"
+    },
+    {
+        "Level": "2",
+        "Name": "2K"
+    },
+    {
+        "Level": "4",
+        "Name": "T"
+    },
+    {
+        "Level": "5",
+        "Name": "K"
+    },
+    {
+        "Level": "5",
+        "Name": "U"
+    },
+    {
+        "Level": "5",
+        "Name": "5A"
+    },
+    {
+        "Level": "1",
+        "Name": "1A"
+    },
+    {
+        "Level": "4",
+        "Name": "4L"
+    },
+    {
+        "Level": "4",
+        "Name": "S"
+    },
+    {
+        "Level": "5",
+        "Name": "5M"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND. KHAS(T)"
+    },
+    {
+        "Level": "2",
+        "Name": "A"
+    },
+    {
+        "Level": "5",
+        "Name": "5U"
+    },
+    {
+        "Level": "2",
+        "Name": "P"
+    },
+    {
+        "Level": "3",
+        "Name": "I"
+    },
+    {
+        "Level": "4",
+        "Name": "4P"
+    },
+    {
+        "Level": "5",
+        "Name": "M"
+    },
+    {
+        "Level": "5",
+        "Name": "A"
+    },
+    {
+        "Level": "3",
+        "Name": "S"
+    },
+    {
+        "Level": "5",
+        "Name": "L"
+    },
+    {
+        "Level": "5",
+        "Name": "P"
+    },
+    {
+        "Level": "1",
+        "Name": "U"
+    },
+    {
+        "Level": "5",
+        "Name": "5P"
+    },
+    {
+        "Level": "2",
+        "Name": "T"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "PA"
+    },
+    {
+        "Level": "3",
+        "Name": "P"
+    },
+    {
+        "Level": "2",
+        "Name": "2M"
+    },
+    {
+        "Level": "2",
+        "Name": "I"
+    },
+    {
+        "Level": "2",
+        "Name": "S"
+    },
+    {
+        "Level": "4",
+        "Name": "4U"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PEND. KHAS(T)"
+    },
+    {
+        "Level": "1",
+        "Name": "L"
+    },
+    {
+        "Level": "3",
+        "Name": "3A"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND KHAS (L)"
+    },
+    {
+        "Level": "3",
+        "Name": "T"
+    },
+    {
+        "Level": "3",
+        "Name": "3T"
+    },
+    {
+        "Level": "5",
+        "Name": "S"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND. KHAS (S)"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH PEND. KHAS(M)"
+    },
+    {
+        "Level": "1",
+        "Name": "K"
+    },
+    {
+        "Level": "1",
+        "Name": "1M"
+    },
+    {
+        "Level": "5",
+        "Name": "5T"
+    },
+    {
+        "Level": "4",
+        "Name": "U"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND. KHAS(M)"
+    },
+    {
+        "Level": "3",
+        "Name": "3S"
+    },
+    {
+        "Level": "1",
+        "Name": "PA"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND. KHAS(K)"
+    },
+    {
+        "Level": "5",
+        "Name": "T"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND KHAS (U)"
+    },
+    {
+        "Level": "3",
+        "Name": "3K"
+    },
+    {
+        "Level": "5",
+        "Name": "5S"
+    },
+    {
+        "Level": "1",
+        "Name": "M"
+    },
+    {
+        "Level": "1",
+        "Name": "A"
+    },
+    {
+        "Level": "2",
+        "Name": "2L"
+    },
+    {
+        "Level": "1",
+        "Name": "P"
+    },
+    {
+        "Level": "1",
+        "Name": "1U"
+    },
+    {
+        "Level": "4",
+        "Name": "M"
+    },
+    {
+        "Level": "4",
+        "Name": "A"
+    },
+    {
+        "Level": "4",
+        "Name": "L"
+    },
+    {
+        "Level": "1",
+        "Name": "1T"
+    },
+    {
+        "Level": "5",
+        "Name": "5K"
+    },
+    {
+        "Level": "2",
+        "Name": "2T"
+    },
+    {
+        "Level": "2",
+        "Name": "2A"
+    },
+    {
+        "Level": "4",
+        "Name": "4M"
+    },
+    {
+        "Level": "2",
+        "Name": "U"
+    },
+    {
+        "Level": "1",
+        "Name": "T"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND. KHAS (U)"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "3",
+        "Name": "3M"
+    },
+    {
+        "Level": "4",
+        "Name": "K"
+    },
+    {
+        "Level": "4",
+        "Name": "4A"
+    },
+    {
+        "Level": "4",
+        "Name": "I"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND. KHAS (L)"
+    },
+    {
+        "Level": "1",
+        "Name": "S"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PEND. KHAS (P)"
+    },
+    {
+        "Level": "4",
+        "Name": "4S"
+    }
+]

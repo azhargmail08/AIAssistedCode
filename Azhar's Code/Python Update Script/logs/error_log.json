@@ -1,0 +1,386 @@
+[
+  {
+    "timestamp": "20250429_131154",
+    "school_code": "JBA1119",
+    "error": "General error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body > div.page-container > div.page-content > div > div > div:nth-child(2) > div > div > form > div > div:nth-child(3) > div > input\")\n",
+    "screenshot": "screenshots/20250429_131154_JBA1119_general_error.png"
+  },
+  {
+    "timestamp": "20250429_131226",
+    "school_code": "JBA1030",
+    "error": "General error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body > div.page-container > div.page-content > div > div > div:nth-child(2) > div > div > form > div > div:nth-child(3) > div > input\")\n",
+    "screenshot": "screenshots/20250429_131226_JBA1030_general_error.png"
+  },
+  {
+    "timestamp": "20250429_132019",
+    "school_code": "JEB1009",
+    "error": "General error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body > div.page-container > div.page-content > div > div > div:nth-child(2) > div > div > form > div > div:nth-child(3) > div > input\")\n",
+    "screenshot": "screenshots/20250429_132019_JEB1009_general_error.png"
+  },
+  {
+    "timestamp": "20250429_132050",
+    "school_code": "JEA1077",
+    "error": "General error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body > div.page-container > div.page-content > div > div > div:nth-child(2) > div > div > form > div > div:nth-child(3) > div > input\")\n",
+    "screenshot": "screenshots/20250429_132050_JEA1077_general_error.png"
+  },
+  {
+    "timestamp": "20250429_132121",
+    "school_code": "JEB1004",
+    "error": "General error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body > div.page-container > div.page-content > div > div > div:nth-child(2) > div > div > form > div > div:nth-child(3) > div > input\")\n",
+    "screenshot": "screenshots/20250429_132121_JEB1004_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144430",
+    "school_code": "JBA1010",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JBA1010_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144430",
+    "school_code": "JEA1056",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JEA1056_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144430",
+    "school_code": "JBA1051",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JBA1051_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144430",
+    "school_code": "JBA1109",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JBA1109_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144430",
+    "school_code": "JEE1004",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JEE1004_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144430",
+    "school_code": "JBC1008",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JBC1008_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144430",
+    "school_code": "JBA1001",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JBA1001_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JBC1044",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144430_JBC1044_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JBA1127",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144431_JBA1127_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JEA1049",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144431_JEA1049_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JBA1078",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144431_JBA1078_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JEA1004",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144431_JEA1004_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JEA1044",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144431_JEA1044_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JEA1048",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144431_JEA1048_general_error.png"
+  },
+  {
+    "timestamp": "20250429_144431",
+    "school_code": "JBC1036",
+    "error": "General error: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.",
+    "screenshot": "screenshots/20250429_144431_JBC1036_general_error.png"
+  },
+  {
+    "timestamp": "20250429_162755",
+    "school_code": "JBC1003",
+    "error": "General error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body > div.page-container > div.page-content > div > div > div:nth-child(2) > div > div > form > div > div:nth-child(3) > div > input\")\n",
+    "screenshot": "screenshots/20250429_162755_JBC1003_general_error.png"
+  },
+  {
+    "timestamp": "20250429_164439",
+    "school_code": "JKE1001",
+    "error": "Low match rate: 37.9%",
+    "screenshot": null
+  },
+  {
+    "timestamp": "20250429_191912",
+    "school_code": "JBA1049",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62bd28499ab3130ba059d146/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250429_191848_JBA1049_general_error.png"
+  },
+  {
+    "timestamp": "20250429_202800",
+    "school_code": "JKE1001",
+    "error": "Low match rate: 37.9%",
+    "screenshot": null
+  },
+  {
+    "timestamp": "20250429_205138",
+    "school_code": "JEA1058",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/JOHOR BAHRU SEPERATED/folder3/JEA1058.xlsx'",
+    "screenshot": "screenshots/20250429_205137_JEA1058_general_error.png"
+  },
+  {
+    "timestamp": "20250429_205138",
+    "school_code": "JBC1021",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/JOHOR BAHRU SEPERATED/folder3/JBC1021.xlsx'",
+    "screenshot": "screenshots/20250429_205138_JBC1021_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221056",
+    "school_code": "JBA0074",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder1/JBA0074.xlsx' -> 'processed/JBA0074.xlsx'",
+    "screenshot": "screenshots/20250429_221056_JBA0074_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221056",
+    "school_code": "JEA0024",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder1/JEA0024.xlsx'",
+    "screenshot": "screenshots/20250429_221056_JEA0024_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221056",
+    "school_code": "JBA0100",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder1/JBA0100.xlsx'",
+    "screenshot": "screenshots/20250429_221056_JBA0100_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221056",
+    "school_code": "JEA0018",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder1/JEA0018.xlsx'",
+    "screenshot": "screenshots/20250429_221056_JEA0018_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221057",
+    "school_code": "JBA0048",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder1/JBA0048.xlsx'",
+    "screenshot": "screenshots/20250429_221056_JBA0048_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221057",
+    "school_code": "JBA0052",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder1/JBA0052.xlsx'",
+    "screenshot": "screenshots/20250429_221057_JBA0052_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221451",
+    "school_code": "JBA0069",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JBA0069.xlsx' -> 'processed/JBA0069.xlsx'",
+    "screenshot": "screenshots/20250429_221451_JBA0069_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221451",
+    "school_code": "JBA0090",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JBA0090.xlsx'",
+    "screenshot": "screenshots/20250429_221451_JBA0090_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221452",
+    "school_code": "JBD0051",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JBD0051.xlsx'",
+    "screenshot": "screenshots/20250429_221451_JBD0051_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221452",
+    "school_code": "JBA0064",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JBA0064.xlsx'",
+    "screenshot": "screenshots/20250429_221452_JBA0064_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221452",
+    "school_code": "JEE0041",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JEE0041.xlsx'",
+    "screenshot": "screenshots/20250429_221452_JEE0041_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221452",
+    "school_code": "JBC0036",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JBC0036.xlsx'",
+    "screenshot": "screenshots/20250429_221452_JBC0036_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221452",
+    "school_code": "JBA0087",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JBA0087.xlsx'",
+    "screenshot": "screenshots/20250429_221452_JBA0087_general_error.png"
+  },
+  {
+    "timestamp": "20250429_221452",
+    "school_code": "JEE0020",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/batu pahat/folder2/JEE0020.xlsx'",
+    "screenshot": "screenshots/20250429_221452_JEE0020_general_error.png"
+  },
+  {
+    "timestamp": "20250429_222522",
+    "school_code": "JBC0029",
+    "error": "Low match rate: 5.0%",
+    "screenshot": null
+  },
+  {
+    "timestamp": "20250429_225131",
+    "school_code": "JBC0027",
+    "error": "Low match rate: 0.3%",
+    "screenshot": null
+  },
+  {
+    "timestamp": "20250430_070732",
+    "school_code": "JBC0027",
+    "error": "Low match rate: 0.3%",
+    "screenshot": null
+  },
+  {
+    "timestamp": "20250430_073149",
+    "school_code": "JBA0078",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/BATU PAHAT SEPERATED/folder3/JBA0078.xlsx'",
+    "screenshot": "screenshots/20250430_073148_JBA0078_general_error.png"
+  },
+  {
+    "timestamp": "20250430_073151",
+    "school_code": "JBA0039",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/BATU PAHAT SEPERATED/folder3/JBA0039.xlsx'",
+    "screenshot": "screenshots/20250430_073149_JBA0039_general_error.png"
+  },
+  {
+    "timestamp": "20250430_073420",
+    "school_code": "JEE1011",
+    "error": "General error: Page.goto: NS_ERROR_NET_TIMEOUT\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/65bb3cd3948d9612dc6f0fe0/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_073419_JEE1011_general_error.png"
+  },
+  {
+    "timestamp": "20250430_073452",
+    "school_code": "JEA1064",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/expiration\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_073450_JEA1064_general_error.png"
+  },
+  {
+    "timestamp": "20250430_073615",
+    "school_code": "JBC0017",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/BATU PAHAT SEPERATED/folder3/JBC0017.xlsx'",
+    "screenshot": "screenshots/20250430_073615_JBC0017_general_error.png"
+  },
+  {
+    "timestamp": "20250430_074437",
+    "school_code": "JBC0020",
+    "error": "General error: [Errno 2] No such file or directory: '/Users/m4/Downloads/BATU PAHAT SEPERATED/folder3/JBC0020.xlsx'",
+    "screenshot": "screenshots/20250430_074437_JBC0020_general_error.png"
+  },
+  {
+    "timestamp": "20250430_145741",
+    "school_code": "JBC0023",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/665411fe65807750b7652092/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_145741_JBC0023_general_error.png"
+  },
+  {
+    "timestamp": "20250430_145956",
+    "school_code": "JEB1009",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62bd4c079ab3130ba059d65e/student\", waiting until \"load\"\n",
+    "screenshot": null
+  },
+  {
+    "timestamp": "20250430_150056",
+    "school_code": "JBD1025",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/expiration\", waiting until \"load\"\n",
+    "screenshot": null
+  },
+  {
+    "timestamp": "20250430_150200",
+    "school_code": "JEB1009",
+    "error": "General error: Page.fill: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"body > div.page-container > div.page-content > div > div > div:nth-child(2) > div > div > form > div > div:nth-child(3) > div > input\")\n",
+    "screenshot": "screenshots/20250430_150200_JEB1009_general_error.png"
+  },
+  {
+    "timestamp": "20250430_160651",
+    "school_code": "JBC1023",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62b967895ca4f672d36ee37a/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_160649_JBC1023_general_error.png"
+  },
+  {
+    "timestamp": "20250430_164249",
+    "school_code": "JBA1113",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/expiration\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_164249_JBA1113_general_error.png"
+  },
+  {
+    "timestamp": "20250430_165159",
+    "school_code": "JBA1113",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62ccee552c4f0076ae234f37/class\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_165159_JBA1113_general_error.png"
+  },
+  {
+    "timestamp": "20250430_174230",
+    "school_code": "JEA1086",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62bc65eaea389f702dfe1dd3/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_174228_JEA1086_general_error.png"
+  },
+  {
+    "timestamp": "20250430_181833",
+    "school_code": "JBA1059",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62be5d466005f13ef5ccf8d6/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_181833_JBA1059_general_error.png"
+  },
+  {
+    "timestamp": "20250430_190412",
+    "school_code": "JBA1059",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62be5d466005f13ef5ccf8d6/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_190412_JBA1059_general_error.png"
+  },
+  {
+    "timestamp": "20250430_190953",
+    "school_code": "JBA1059",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62be5d466005f13ef5ccf8d6/class\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_190952_JBA1059_general_error.png"
+  },
+  {
+    "timestamp": "20250430_192816",
+    "school_code": "JEA1060",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/65bb0e3c948d9612dc6f0ad7/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_192815_JEA1060_general_error.png"
+  },
+  {
+    "timestamp": "20250430_192944",
+    "school_code": "JBC1049",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/66540c0fd3591506dc38fe2b/class\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_192944_JBC1049_general_error.png"
+  },
+  {
+    "timestamp": "20250430_192959",
+    "school_code": "JBA1077",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/expiration\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_192959_JBA1077_general_error.png"
+  },
+  {
+    "timestamp": "20250430_195927",
+    "school_code": "JBB1001",
+    "error": "General error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://crm.studentqr.com/school/62be75722c8a13654eb46542/student\", waiting until \"load\"\n",
+    "screenshot": "screenshots/20250430_195926_JBB1001_general_error.png"
+  }
+]

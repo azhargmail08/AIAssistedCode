@@ -1,0 +1,594 @@
+[
+    {
+        "Level": "4",
+        "Name": "KV2 DMD"
+    },
+    {
+        "Level": "2",
+        "Name": "2 SVM MPI"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DHD"
+    },
+    {
+        "Level": "2",
+        "Name": "2 SVM MTK"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DCA"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 CMA"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 CHD"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 CCA"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DHA"
+    },
+    {
+        "Level": "2",
+        "Name": "2 SVM MTA"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 MTK"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 CEA"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 CMA"
+    },
+    {
+        "Level": "2",
+        "Name": "2 SVM MPP"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 HFD"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 CEB (2025)"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 CEA"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DMB"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DCA"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 CHD"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DDC"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 CEA"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DMA"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DMD"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 CMA"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 HFD (2025)"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DDC A"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DMD"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 HSK"
+    },
+    {
+        "Level": "1",
+        "Name": "1 SVM MPI"
+    },
+    {
+        "Level": "2",
+        "Name": "2 SVM HFD"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 CMC"
+    },
+    {
+        "Level": "3",
+        "Name": "1 DEA"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DMC"
+    },
+    {
+        "Level": "1",
+        "Name": "1 SVM MTK"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DMA"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 HSK (2025)"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DDC A"
+    },
+    {
+        "Level": "1",
+        "Name": "1 SVM HKM"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DEA"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DHD"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 CHD"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 CHD"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DHA"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 HSK"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DEB"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 CCA"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 MTK (2025)"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 CEB"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 CMC"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DCA"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DMC"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 CMC (2025)"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DDC B"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 HSK"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 CHD (2025)"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 CMD"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DMD"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 CMC"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DEB"
+    },
+    {
+        "Level": "3",
+        "Name": "1 DCA"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DHA"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DDC B"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DMB"
+    },
+    {
+        "Level": "3",
+        "Name": "1 DMB"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 MTK"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DMC"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DHD"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 CMA"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DMA"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 MTK"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DEA"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 CMC"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DHA"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 CMA"
+    },
+    {
+        "Level": "3",
+        "Name": "1 DDC A"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 CMA"
+    },
+    {
+        "Level": "1",
+        "Name": "KV(2023) 1 CCA"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DMB"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DHA"
+    },
+    {
+        "Level": "1",
+        "Name": "1 SVM HSK"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 HSK"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DCA"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DMC"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DEB"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 CMC"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DHD"
+    },
+    {
+        "Level": "4",
+        "Name": "2 DEA"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 CEB"
+    },
+    {
+        "Level": "1",
+        "Name": "1 SVM WTP"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 HSK"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 CEA (2025)"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 HFD"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DMD"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DMC"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 CMD"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DCA"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DMD"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 CCA"
+    },
+    {
+        "Level": "3",
+        "Name": "1 DDC B"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DCA"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 HSK"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 MTK"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 CMD"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 CCA"
+    },
+    {
+        "Level": "1",
+        "Name": "1 SVM ETN"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DDC"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 MTK"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DEB"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 CEB"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "2 CEA"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 CEA"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DDC A"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 CMD (2025)"
+    },
+    {
+        "Level": "4 VOKASIONAL",
+        "Name": "2 DEB"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 CHD"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 CEB"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DEB"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DEA"
+    },
+    {
+        "Level": "3",
+        "Name": "1 DHA"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 CCA"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DEA"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 CMD"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 CMC"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DMB"
+    },
+    {
+        "Level": "4",
+        "Name": "KV2 DHD"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 CHD"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DMB"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "1 CMD"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DMB"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "1 DMC"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 CMA (2025)"
+    },
+    {
+        "Level": "3",
+        "Name": "KV1 DDC"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DHD"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 CEA"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DDC B"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DHA"
+    },
+    {
+        "Level": "2",
+        "Name": "2 SVM HKM"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 CEB"
+    },
+    {
+        "Level": "3 VOKASIONAL",
+        "Name": "1 DEA"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 CMD"
+    },
+    {
+        "Level": "2 VOKASIONAL",
+        "Name": "2 HFD"
+    },
+    {
+        "Level": "1",
+        "Name": "KV1 MTK"
+    },
+    {
+        "Level": "1 VOKASIONAL (2023)",
+        "Name": "1 HFD"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "1 CCA (2025)"
+    },
+    {
+        "Level": "2",
+        "Name": "KV(2023) SEM3 2 CEB"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "2 DEA"
+    }
+]

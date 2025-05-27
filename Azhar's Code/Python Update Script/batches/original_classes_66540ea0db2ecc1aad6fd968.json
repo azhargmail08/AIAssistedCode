@@ -1,0 +1,194 @@
+[
+    {
+        "Level": "3KV",
+        "Name": "DVM DMA"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "CMD"
+    },
+    {
+        "Level": "2S4DVM",
+        "Name": "DMB"
+    },
+    {
+        "Level": "5",
+        "Name": "SLDN AUTO"
+    },
+    {
+        "Level": "2S4DVM",
+        "Name": "DMA"
+    },
+    {
+        "Level": "1S2DVM",
+        "Name": "DMD"
+    },
+    {
+        "Level": "4KV",
+        "Name": "DVM DMA"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "CMA"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "CMD"
+    },
+    {
+        "Level": "1S1SVM",
+        "Name": "CMD"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "MTA"
+    },
+    {
+        "Level": "1KV",
+        "Name": "SVM CMA"
+    },
+    {
+        "Level": "S1SVM",
+        "Name": "MTK"
+    },
+    {
+        "Level": "2S4SVM",
+        "Name": "MTA"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "DMB"
+    },
+    {
+        "Level": "3KV",
+        "Name": "DVM DMD"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "MTK"
+    },
+    {
+        "Level": "4KV",
+        "Name": "DVM DMB"
+    },
+    {
+        "Level": "3KV",
+        "Name": "DVM DMB"
+    },
+    {
+        "Level": "1S2DVM",
+        "Name": "DMB"
+    },
+    {
+        "Level": "1S1SVM",
+        "Name": "CMA"
+    },
+    {
+        "Level": "1KV",
+        "Name": "SVM MPI"
+    },
+    {
+        "Level": "1KV",
+        "Name": "SVM MTK"
+    },
+    {
+        "Level": "2KV",
+        "Name": "SVM MTA"
+    },
+    {
+        "Level": "2S4SVM",
+        "Name": "MTK"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "CMA"
+    },
+    {
+        "Level": "S4DVM",
+        "Name": "DMA"
+    },
+    {
+        "Level": "S2SVM",
+        "Name": "MTK"
+    },
+    {
+        "Level": "1S2DVM",
+        "Name": "DMA"
+    },
+    {
+        "Level": "1KV (2023)",
+        "Name": "SVM MTA 23"
+    },
+    {
+        "Level": "1S1SVM",
+        "Name": "MTK"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "DMD"
+    },
+    {
+        "Level": "1S2SVM",
+        "Name": "CMD"
+    },
+    {
+        "Level": "2KV",
+        "Name": "(2023) SEM 3 SVM MPI"
+    },
+    {
+        "Level": "2KV",
+        "Name": "(2023) SEM 3 SVM MTK"
+    },
+    {
+        "Level": "1KV (2023)",
+        "Name": "SVM MPI 23"
+    },
+    {
+        "Level": "1KV (2023)",
+        "Name": "SVM MTK 2023"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "DMB"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "S4SVM",
+        "Name": "MPI"
+    },
+    {
+        "Level": "S2DVM",
+        "Name": "DMA"
+    },
+    {
+        "Level": "1S2SVM",
+        "Name": "CMA"
+    },
+    {
+        "Level": "2S4SVM",
+        "Name": "MPI"
+    },
+    {
+        "Level": "1KV",
+        "Name": "SVM CMD"
+    },
+    {
+        "Level": "1KV",
+        "Name": "SVM MTA"
+    },
+    {
+        "Level": "1S2SVM",
+        "Name": "MTK"
+    },
+    {
+        "Level": "2KV",
+        "Name": "(2023) SEM 3 SVM MTA"
+    },
+    {
+        "Level": "2KV",
+        "Name": "SVM MTK"
+    }
+]

@@ -1,0 +1,910 @@
+[
+    {
+        "Level": "1",
+        "Name": "UTM"
+    },
+    {
+        "Level": "5",
+        "Name": "5PSV2"
+    },
+    {
+        "Level": "5",
+        "Name": "5SN2"
+    },
+    {
+        "Level": "2",
+        "Name": "UTP"
+    },
+    {
+        "Level": "3",
+        "Name": "UPM"
+    },
+    {
+        "Level": "5",
+        "Name": "5BCT1"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH LILI"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH SEROJA"
+    },
+    {
+        "Level": "5",
+        "Name": "AAE"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH MAWAR"
+    },
+    {
+        "Level": "2",
+        "Name": "UMK"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UTHM"
+    },
+    {
+        "Level": "2",
+        "Name": "2UPM"
+    },
+    {
+        "Level": "1",
+        "Name": "1UITM"
+    },
+    {
+        "Level": "1",
+        "Name": "1UMK"
+    },
+    {
+        "Level": "3",
+        "Name": "3UUM"
+    },
+    {
+        "Level": "3",
+        "Name": "UNIMAP"
+    },
+    {
+        "Level": "4",
+        "Name": "4PTS1"
+    },
+    {
+        "Level": "1",
+        "Name": "1 USM"
+    },
+    {
+        "Level": "3",
+        "Name": "3UTP"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH MELUR"
+    },
+    {
+        "Level": "3",
+        "Name": "UKM"
+    },
+    {
+        "Level": "3",
+        "Name": "3UKM"
+    },
+    {
+        "Level": "1",
+        "Name": "1USIM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 SEMENTARA"
+    },
+    {
+        "Level": "5",
+        "Name": "5KT"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "MAWAR"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "DAHLIA"
+    },
+    {
+        "Level": "3",
+        "Name": "3UNIMAP"
+    },
+    {
+        "Level": "1",
+        "Name": "USM"
+    },
+    {
+        "Level": "5",
+        "Name": "SNA"
+    },
+    {
+        "Level": "3",
+        "Name": "3UIA"
+    },
+    {
+        "Level": "5",
+        "Name": "5AAP"
+    },
+    {
+        "Level": "4",
+        "Name": "BD"
+    },
+    {
+        "Level": "4",
+        "Name": "4PSV2"
+    },
+    {
+        "Level": "1",
+        "Name": "1UUM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UITM"
+    },
+    {
+        "Level": "2",
+        "Name": "2UTP"
+    },
+    {
+        "Level": "3",
+        "Name": "3USM"
+    },
+    {
+        "Level": "5",
+        "Name": "5BTS"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UPM"
+    },
+    {
+        "Level": "5",
+        "Name": "5SNA"
+    },
+    {
+        "Level": "5",
+        "Name": "5PTS2"
+    },
+    {
+        "Level": "3",
+        "Name": "UIA"
+    },
+    {
+        "Level": "2",
+        "Name": "UUM"
+    },
+    {
+        "Level": "3",
+        "Name": "USIM"
+    },
+    {
+        "Level": "5",
+        "Name": "PTS1"
+    },
+    {
+        "Level": "4",
+        "Name": "4BS2"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH TULIP"
+    },
+    {
+        "Level": "3",
+        "Name": "3 USM"
+    },
+    {
+        "Level": "2",
+        "Name": "UNIMAP"
+    },
+    {
+        "Level": "2",
+        "Name": "2UTHM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UNIMAP"
+    },
+    {
+        "Level": "1",
+        "Name": "UMP"
+    },
+    {
+        "Level": "4",
+        "Name": "PSV2"
+    },
+    {
+        "Level": "4",
+        "Name": "4BCT2"
+    },
+    {
+        "Level": "4",
+        "Name": "4AP"
+    },
+    {
+        "Level": "5",
+        "Name": "5GS"
+    },
+    {
+        "Level": "KHAS",
+        "Name": "MENENGAH TANJUNG"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UIA"
+    },
+    {
+        "Level": "2",
+        "Name": "2UMK"
+    },
+    {
+        "Level": "1",
+        "Name": "1UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "4BCT1"
+    },
+    {
+        "Level": "4",
+        "Name": "4SN"
+    },
+    {
+        "Level": "5",
+        "Name": "5BS1"
+    },
+    {
+        "Level": "1",
+        "Name": "UITM"
+    },
+    {
+        "Level": "4",
+        "Name": "4SMT"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UMP"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UIA"
+    },
+    {
+        "Level": "4",
+        "Name": "SN"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTeM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "BCT1"
+    },
+    {
+        "Level": "5",
+        "Name": "5AP1"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "SEROJA"
+    },
+    {
+        "Level": "2",
+        "Name": "UIA"
+    },
+    {
+        "Level": "4",
+        "Name": "4SNA"
+    },
+    {
+        "Level": "5",
+        "Name": "SMT"
+    },
+    {
+        "Level": "2",
+        "Name": "USIM"
+    },
+    {
+        "Level": "3",
+        "Name": "UUM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UTM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 USIM"
+    },
+    {
+        "Level": "5",
+        "Name": "PTS2"
+    },
+    {
+        "Level": "4",
+        "Name": "4AAE"
+    },
+    {
+        "Level": "4",
+        "Name": "PSV1"
+    },
+    {
+        "Level": "2",
+        "Name": "UTEM"
+    },
+    {
+        "Level": "4",
+        "Name": "BCT2"
+    },
+    {
+        "Level": "4",
+        "Name": "KT"
+    },
+    {
+        "Level": "5",
+        "Name": "5AP"
+    },
+    {
+        "Level": "4",
+        "Name": "GS"
+    },
+    {
+        "Level": "3",
+        "Name": "3UPM"
+    },
+    {
+        "Level": "5",
+        "Name": "5BCT"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UKM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "TANJUNG"
+    },
+    {
+        "Level": "5",
+        "Name": "5PTA"
+    },
+    {
+        "Level": "5",
+        "Name": "5BS2"
+    },
+    {
+        "Level": "1",
+        "Name": "UPM"
+    },
+    {
+        "Level": "5",
+        "Name": "5PTS1"
+    },
+    {
+        "Level": "5",
+        "Name": "AP"
+    },
+    {
+        "Level": "5",
+        "Name": "BD"
+    },
+    {
+        "Level": "5",
+        "Name": "5PSV"
+    },
+    {
+        "Level": "5",
+        "Name": "BS1"
+    },
+    {
+        "Level": "PERALIHAN",
+        "Name": "PA"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UNIMAP"
+    },
+    {
+        "Level": "1",
+        "Name": "UKM"
+    },
+    {
+        "Level": "1",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "TULIP"
+    },
+    {
+        "Level": "5",
+        "Name": "5BD"
+    },
+    {
+        "Level": "3",
+        "Name": "3UMP"
+    },
+    {
+        "Level": "5",
+        "Name": "5PS"
+    },
+    {
+        "Level": "1",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "2",
+        "Name": "2UITM"
+    },
+    {
+        "Level": "2",
+        "Name": "2UNIMAS"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UNIMAS"
+    },
+    {
+        "Level": "5",
+        "Name": "5PTS"
+    },
+    {
+        "Level": "4",
+        "Name": "4AP1"
+    },
+    {
+        "Level": "3",
+        "Name": "UTEM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UUM"
+    },
+    {
+        "Level": "5",
+        "Name": "PSV"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "MELUR"
+    },
+    {
+        "Level": "2",
+        "Name": "2USIM"
+    },
+    {
+        "Level": "2",
+        "Name": "2UTEM"
+    },
+    {
+        "Level": "2",
+        "Name": "2UIA"
+    },
+    {
+        "Level": "3",
+        "Name": "3UITM"
+    },
+    {
+        "Level": "4",
+        "Name": "AAE"
+    },
+    {
+        "Level": "5",
+        "Name": "BS2"
+    },
+    {
+        "Level": "3",
+        "Name": "USM"
+    },
+    {
+        "Level": "1",
+        "Name": "UTP"
+    },
+    {
+        "Level": "2",
+        "Name": "2UTM"
+    },
+    {
+        "Level": "2",
+        "Name": "UTM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UTEM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UniMAP"
+    },
+    {
+        "Level": "4",
+        "Name": "4KT"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UITM"
+    },
+    {
+        "Level": "1",
+        "Name": "1UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "4BD"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UITM"
+    },
+    {
+        "Level": "1",
+        "Name": "UMK"
+    },
+    {
+        "Level": "1",
+        "Name": "1UIA"
+    },
+    {
+        "Level": "5",
+        "Name": "SN"
+    },
+    {
+        "Level": "1",
+        "Name": "1 USIM"
+    },
+    {
+        "Level": "3",
+        "Name": "3UTHM"
+    },
+    {
+        "Level": "1",
+        "Name": "1UKM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UTEM"
+    },
+    {
+        "Level": "1",
+        "Name": "1UTP"
+    },
+    {
+        "Level": "4",
+        "Name": "SNA"
+    },
+    {
+        "Level": "4",
+        "Name": "4BTS"
+    },
+    {
+        "Level": "5",
+        "Name": "5SN1"
+    },
+    {
+        "Level": "4",
+        "Name": "4SN1"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTEM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTHM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UUM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UTP"
+    },
+    {
+        "Level": "5",
+        "Name": "KT"
+    },
+    {
+        "Level": "1",
+        "Name": "1UNIMAP"
+    },
+    {
+        "Level": "2",
+        "Name": "2 USIM"
+    },
+    {
+        "Level": "4",
+        "Name": "PTS1"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UIA"
+    },
+    {
+        "Level": "2",
+        "Name": "USM"
+    },
+    {
+        "Level": "5",
+        "Name": "5SMT"
+    },
+    {
+        "Level": "3",
+        "Name": "UTM"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "LILI"
+    },
+    {
+        "Level": "1",
+        "Name": "UUM"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UMP"
+    },
+    {
+        "Level": "4",
+        "Name": "4BCT"
+    },
+    {
+        "Level": "1",
+        "Name": "UNIMAP"
+    },
+    {
+        "Level": "2",
+        "Name": "2UKM"
+    },
+    {
+        "Level": "5",
+        "Name": "5PSV1"
+    },
+    {
+        "Level": "2",
+        "Name": "2 USM"
+    },
+    {
+        "Level": "1",
+        "Name": "1UTHM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UTHM"
+    },
+    {
+        "Level": "3",
+        "Name": "3USIM"
+    },
+    {
+        "Level": "3",
+        "Name": "3UTM"
+    },
+    {
+        "Level": "4",
+        "Name": "4PSV1"
+    },
+    {
+        "Level": "1",
+        "Name": "PA"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UTM"
+    },
+    {
+        "Level": "2",
+        "Name": "UMP"
+    },
+    {
+        "Level": "4",
+        "Name": "4GS"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UPM"
+    },
+    {
+        "Level": "4",
+        "Name": "SMT"
+    },
+    {
+        "Level": "2",
+        "Name": "2UUM"
+    },
+    {
+        "Level": "5",
+        "Name": "PSV2"
+    },
+    {
+        "Level": "2",
+        "Name": "UITM"
+    },
+    {
+        "Level": "5",
+        "Name": "5SN"
+    },
+    {
+        "Level": "1",
+        "Name": "1UNIMAS"
+    },
+    {
+        "Level": "1",
+        "Name": "UIA"
+    },
+    {
+        "Level": "1",
+        "Name": "USIM"
+    },
+    {
+        "Level": "4",
+        "Name": "PTS2"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UNIMAP"
+    },
+    {
+        "Level": "1",
+        "Name": "1USM"
+    },
+    {
+        "Level": "4",
+        "Name": "4PTS2"
+    },
+    {
+        "Level": "4",
+        "Name": "4BS1"
+    },
+    {
+        "Level": "5",
+        "Name": "BTS"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UNIMAS"
+    },
+    {
+        "Level": "1",
+        "Name": "UTEM"
+    },
+    {
+        "Level": "3",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UPM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UKM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UTP"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UTP"
+    },
+    {
+        "Level": "3",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "2",
+        "Name": "2UMP"
+    },
+    {
+        "Level": "3",
+        "Name": "3UTEM"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UUM"
+    },
+    {
+        "Level": "4",
+        "Name": "AP"
+    },
+    {
+        "Level": "5",
+        "Name": "5AAE"
+    },
+    {
+        "Level": "3",
+        "Name": "3 UMP"
+    },
+    {
+        "Level": "3",
+        "Name": "UMP"
+    },
+    {
+        "Level": "4",
+        "Name": "BS1"
+    },
+    {
+        "Level": "5",
+        "Name": "GS"
+    },
+    {
+        "Level": "3",
+        "Name": "UTP"
+    },
+    {
+        "Level": "2",
+        "Name": "UPM"
+    },
+    {
+        "Level": "3",
+        "Name": "UITM"
+    },
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "4",
+        "Name": "4 SEMENTARA"
+    },
+    {
+        "Level": "1",
+        "Name": "1UMP"
+    },
+    {
+        "Level": "2",
+        "Name": "2UNIMAP"
+    },
+    {
+        "Level": "PPKI",
+        "Name": "PK DAHLIA"
+    },
+    {
+        "Level": "2",
+        "Name": "UKM"
+    },
+    {
+        "Level": "1",
+        "Name": "1 UNIMAS"
+    },
+    {
+        "Level": "2",
+        "Name": "UNIMAS"
+    },
+    {
+        "Level": "4",
+        "Name": "BS2"
+    },
+    {
+        "Level": "1",
+        "Name": "1UTEM"
+    },
+    {
+        "Level": "2",
+        "Name": "2USM"
+    },
+    {
+        "Level": "2",
+        "Name": "UTHM"
+    },
+    {
+        "Level": "3",
+        "Name": "3UNIMAS"
+    },
+    {
+        "Level": "2",
+        "Name": "2 UKM"
+    }
+]

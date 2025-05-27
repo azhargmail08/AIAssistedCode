@@ -1,0 +1,82 @@
+[
+    {
+        "Level": "1",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "1",
+        "Name": "INTELLIGENT"
+    },
+    {
+        "Level": "1",
+        "Name": "EXCELLENT"
+    },
+    {
+        "Level": "2",
+        "Name": "INTELLIGENT"
+    },
+    {
+        "Level": "2",
+        "Name": "EXCELLENT"
+    },
+    {
+        "Level": "GURU",
+        "Name": ""
+    },
+    {
+        "Level": "PRASEKOLAH",
+        "Name": "INTELLIGENT"
+    },
+    {
+        "Level": "PRASEKOLAH",
+        "Name": "EXCELLENT"
+    },
+    {
+        "Level": "4",
+        "Name": "INTELLIGENT"
+    },
+    {
+        "Level": "4",
+        "Name": "DILIGENT"
+    },
+    {
+        "Level": "",
+        "Name": "GURU"
+    },
+    {
+        "Level": "4",
+        "Name": "EXCELLENT"
+    },
+    {
+        "Level": "KELAS",
+        "Name": "ALUMNI"
+    },
+    {
+        "Level": "5",
+        "Name": "INTELLIGENT"
+    },
+    {
+        "Level": "5",
+        "Name": "EXCELLENT"
+    },
+    {
+        "Level": "3",
+        "Name": "INTELLIGENT"
+    },
+    {
+        "Level": "3",
+        "Name": "DILIGENT"
+    },
+    {
+        "Level": "6",
+        "Name": "INTELLIGENT"
+    },
+    {
+        "Level": "6",
+        "Name": "EXCELLENT"
+    },
+    {
+        "Level": "3",
+        "Name": "EXCELLENT"
+    }
+]

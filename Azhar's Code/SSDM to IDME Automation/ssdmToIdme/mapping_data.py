@@ -31,11 +31,23 @@ ssdm_to_idme_mapping = {
             "new_category": "1. IDME - ADAB DAN BERBUDI BAHASA",
             "idme_category": "ADAB DAN BERBUDI BAHASA",
             "idme_subcategory": "MENJADI PENDORONG DAN SURI TELADAN KEPADA ORANG LAIN (IDME - 1)"
+        },
+        {
+            "old_category": "2. SSDM- ADAB DAN TINGKAH LAKU PELAJAR",
+            "new_category": "1. IDME - ADAB DAN BERBUDI BAHASA",
+            "idme_category": "ADAB DAN BERBUDI BAHASA",
+            "idme_subcategory": "MENJADI PENDORONG DAN SURI TELADAN KEPADA ORANG LAIN (IDME - 1)"
         }
     ],
     "BERDISIPLIN": [
         {
             "old_category": "2. SSDM- MENZAHIRKAN MANA-MANA AMALAN BAIK",
+            "new_category": "2. IDME - JATI DARI",
+            "idme_category": "JATI DIRI",
+            "idme_subcategory": "MEMPUNYAI DAYA TAHAN DIRI SECARA FIZIKAL DAN MENTAL YANG BAIK"
+        },
+        {
+            "old_category": "2. SSDM- ADAB DAN TINGKAH LAKU PELAJAR",
             "new_category": "2. IDME - JATI DARI",
             "idme_category": "JATI DIRI",
             "idme_subcategory": "MEMPUNYAI DAYA TAHAN DIRI SECARA FIZIKAL DAN MENTAL YANG BAIK"
